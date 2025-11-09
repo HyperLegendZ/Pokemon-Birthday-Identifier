@@ -32,7 +32,7 @@ You only need **Python 3** installed to run this script.
 
 Execute the script from your terminal:
 
-1. **Get the right directory. *This tends to be the accounts' username.**
+1. **Get the right directory.     *This tends to be the accounts' username.***
    ```bash
    cd "C:\Users\____*\Documents\Project Pokemon Bday"
    ```
@@ -45,7 +45,7 @@ Execute the script from your terminal:
 
 ```bash
 python pokemon_birthday.py
-Enter the Pokémon's birthday (DDMM): 0728
+Enter the your birthday (DDMM): 0728
 ```
 
 ✅ Found a Pokémon with the pokemon index number 0728:
