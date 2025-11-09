@@ -1,0 +1,7891 @@
+{
+	"bulbasaur": {
+		"bday": 1,
+		"front": {
+			"w": 37,
+			"h": 38
+		},
+		"back": {
+			"w": 32,
+			"h": 37
+		}
+	},
+	"ivysaur": {
+		"bday": 2,
+		"front": {
+			"w": 58,
+			"h": 51
+		},
+		"back": {
+			"w": 57,
+			"h": 45
+		}
+	},
+	"venusaur": {
+		"bday": 3,
+		"front": {
+			"w": 86,
+			"h": 71
+		},
+		"frontf": {
+			"w": 86,
+			"h": 71
+		},
+		"back": {
+			"w": 89,
+			"h": 64
+		},
+		"backf": {
+			"w": 89,
+			"h": 64
+		}
+	},
+	"venusaurmega": {
+		"bday": 3
+	},
+	"venusaurgmax": {
+		"bday": 3
+	},
+	"charmander": {
+		"bday": 4,
+		"front": {
+			"w": 41,
+			"h": 42
+		},
+		"back": {
+			"w": 44,
+			"h": 44
+		}
+	},
+	"charmeleon": {
+		"bday": 5,
+		"front": {
+			"w": 69,
+			"h": 56
+		},
+		"back": {
+			"w": 67,
+			"h": 60
+		}
+	},
+	"charizard": {
+		"bday": 6,
+		"front": {
+			"w": 89,
+			"h": 91
+		},
+		"back": {
+			"w": 98,
+			"h": 83
+		}
+	},
+	"charizardmegax": {
+		"bday": 6,
+		"front": {
+			"w": 105,
+			"h": 94
+		}
+	},
+	"charizardmegay": {
+		"bday": 6
+	},
+	"charizardgmax": {
+		"bday": 6
+	},
+	"squirtle": {
+		"bday": 7,
+		"front": {
+			"w": 39,
+			"h": 43
+		},
+		"back": {
+			"w": 39,
+			"h": 45
+		}
+	},
+	"wartortle": {
+		"bday": 8,
+		"front": {
+			"w": 60,
+			"h": 57
+		},
+		"back": {
+			"w": 56,
+			"h": 62
+		}
+	},
+	"blastoise": {
+		"bday": 9,
+		"front": {
+			"w": 70,
+			"h": 66
+		},
+		"back": {
+			"w": 66,
+			"h": 67
+		}
+	},
+	"blastoisemega": {
+		"bday": 9
+	},
+	"blastoisegmax": {
+		"bday": 9
+	},
+	"caterpie": {
+		"bday": 10,
+		"front": {
+			"w": 36,
+			"h": 37
+		},
+		"back": {
+			"w": 38,
+			"h": 35
+		}
+	},
+	"metapod": {
+		"bday": 11,
+		"front": {
+			"w": 37,
+			"h": 38
+		},
+		"back": {
+			"w": 43,
+			"h": 43
+		}
+	},
+	"butterfree": {
+		"bday": 12,
+		"front": {
+			"w": 61,
+			"h": 58
+		},
+		"frontf": {
+			"w": 61,
+			"h": 58
+		},
+		"back": {
+			"w": 64,
+			"h": 57
+		},
+		"backf": {
+			"w": 64,
+			"h": 57
+		}
+	},
+	"butterfreegmax": {
+		"bday": 12
+	},
+	"weedle": {
+		"bday": 13,
+		"front": {
+			"w": 37,
+			"h": 47
+		},
+		"back": {
+			"w": 42,
+			"h": 46
+		}
+	},
+	"kakuna": {
+		"bday": 14,
+		"front": {
+			"w": 31,
+			"h": 40
+		},
+		"back": {
+			"w": 32,
+			"h": 41
+		}
+	},
+	"beedrill": {
+		"bday": 15,
+		"front": {
+			"w": 73,
+			"h": 69
+		},
+		"back": {
+			"w": 76,
+			"h": 68
+		}
+	},
+	"beedrillmega": {
+		"bday": 15,
+		"front": {
+			"w": 103,
+			"h": 88
+		}
+	},
+	"pidgey": {
+		"bday": 16,
+		"front": {
+			"w": 42,
+			"h": 48
+		},
+		"back": {
+			"w": 45,
+			"h": 47
+		}
+	},
+	"pidgeotto": {
+		"bday": 17,
+		"front": {
+			"w": 82,
+			"h": 117
+		},
+		"back": {
+			"w": 95,
+			"h": 95
+		}
+	},
+	"pidgeot": {
+		"bday": 18,
+		"front": {
+			"w": 58,
+			"h": 68
+		},
+		"back": {
+			"w": 68,
+			"h": 66
+		}
+	},
+	"pidgeotmega": {
+		"bday": 18
+	},
+	"rattata": {
+		"bday": 19,
+		"front": {
+			"w": 43,
+			"h": 43
+		},
+		"frontf": {
+			"w": 43,
+			"h": 43
+		},
+		"back": {
+			"w": 59,
+			"h": 42
+		},
+		"backf": {
+			"w": 57,
+			"h": 42
+		}
+	},
+	"rattataalola": {
+		"bday": 19,
+		"front": {
+			"w": 53,
+			"h": 52
+		},
+		"back": {
+			"w": 62,
+			"h": 49
+		}
+	},
+	"raticate": {
+		"bday": 20,
+		"front": {
+			"w": 65,
+			"h": 51
+		},
+		"frontf": {
+			"w": 63,
+			"h": 51
+		},
+		"back": {
+			"w": 66,
+			"h": 52
+		},
+		"backf": {
+			"w": 66,
+			"h": 52
+		}
+	},
+	"raticatealola": {
+		"bday": 20,
+		"front": {
+			"w": 60,
+			"h": 47
+		},
+		"back": {
+			"w": 70,
+			"h": 52
+		}
+	},
+	"raticatealolatotem": {
+		"bday": 20
+	},
+	"spearow": {
+		"bday": 21,
+		"front": {
+			"w": 33,
+			"h": 40
+		},
+		"back": {
+			"w": 34,
+			"h": 40
+		}
+	},
+	"fearow": {
+		"bday": 22,
+		"front": {
+			"w": 82,
+			"h": 105
+		},
+		"back": {
+			"w": 78,
+			"h": 112
+		}
+	},
+	"ekans": {
+		"bday": 23,
+		"front": {
+			"w": 59,
+			"h": 45
+		},
+		"back": {
+			"w": 57,
+			"h": 50
+		}
+	},
+	"arbok": {
+		"bday": 24,
+		"front": {
+			"w": 82,
+			"h": 75
+		},
+		"back": {
+			"w": 86,
+			"h": 71
+		}
+	},
+	"pikachu": {
+		"bday": 25,
+		"front": {
+			"w": 50,
+			"h": 46
+		},
+		"frontf": {
+			"w": 50,
+			"h": 46
+		},
+		"back": {
+			"w": 40,
+			"h": 47
+		},
+		"backf": {
+			"w": 41,
+			"h": 47
+		}
+	},
+	"pikachucosplay": {
+		"bday": 25
+	},
+	"pikachurockstar": {
+		"bday": 25
+	},
+	"pikachubelle": {
+		"bday": 25
+	},
+	"pikachupopstar": {
+		"bday": 25
+	},
+	"pikachuphd": {
+		"bday": 25
+	},
+	"pikachulibre": {
+		"bday": 25
+	},
+	"pikachuoriginal": {
+		"bday": 25,
+		"front": {
+			"w": 48,
+			"h": 44
+		},
+		"back": {
+			"w": 43,
+			"h": 42
+		}
+	},
+	"pikachuhoenn": {
+		"bday": 25,
+		"front": {
+			"w": 48,
+			"h": 44
+		},
+		"back": {
+			"w": 43,
+			"h": 42
+		}
+	},
+	"pikachusinnoh": {
+		"bday": 25,
+		"front": {
+			"w": 48,
+			"h": 44
+		},
+		"back": {
+			"w": 43,
+			"h": 42
+		}
+	},
+	"pikachuunova": {
+		"bday": 25,
+		"front": {
+			"w": 48,
+			"h": 44
+		},
+		"back": {
+			"w": 43,
+			"h": 42
+		}
+	},
+	"pikachukalos": {
+		"bday": 25,
+		"front": {
+			"w": 48,
+			"h": 44
+		},
+		"back": {
+			"w": 43,
+			"h": 42
+		}
+	},
+	"pikachualola": {
+		"bday": 25,
+		"front": {
+			"w": 48,
+			"h": 44
+		},
+		"back": {
+			"w": 43,
+			"h": 42
+		}
+	},
+	"pikachupartner": {
+		"bday": 25,
+		"front": {
+			"w": 48,
+			"h": 44
+		},
+		"back": {
+			"w": 43,
+			"h": 42
+		}
+	},
+	"pikachustarter": {
+		"bday": 25,
+		"front": {
+			"w": 50,
+			"h": 46
+		},
+		"frontf": {
+			"w": 50,
+			"h": 46
+		},
+		"back": {
+			"w": 43,
+			"h": 49
+		},
+		"backf": {
+			"w": 41,
+			"h": 47
+		}
+	},
+	"pikachugmax": {
+		"bday": 25
+	},
+	"pikachuworld": {
+		"bday": 25,
+		"front": {
+			"w": 48,
+			"h": 44
+		}
+	},
+	"raichu": {
+		"bday": 26,
+		"front": {
+			"w": 74,
+			"h": 73
+		},
+		"frontf": {
+			"w": 71,
+			"h": 73
+		},
+		"back": {
+			"w": 76,
+			"h": 73
+		},
+		"backf": {
+			"w": 73,
+			"h": 73
+		}
+	},
+	"raichualola": {
+		"bday": 26,
+		"front": {
+			"w": 105,
+			"h": 96
+		},
+		"back": {
+			"w": 123,
+			"h": 93
+		}
+	},
+	"sandshrew": {
+		"bday": 27,
+		"front": {
+			"w": 36,
+			"h": 39
+		},
+		"back": {
+			"w": 41,
+			"h": 38
+		}
+	},
+	"sandshrewalola": {
+		"bday": 27,
+		"front": {
+			"w": 40,
+			"h": 38
+		},
+		"back": {
+			"w": 44,
+			"h": 38
+		}
+	},
+	"sandslash": {
+		"bday": 28,
+		"front": {
+			"w": 57,
+			"h": 53
+		},
+		"back": {
+			"w": 57,
+			"h": 52
+		}
+	},
+	"sandslashalola": {
+		"bday": 28,
+		"front": {
+			"w": 61,
+			"h": 58
+		},
+		"back": {
+			"w": 56,
+			"h": 58
+		}
+	},
+	"nidoranf": {
+		"bday": 29,
+		"front": {
+			"w": 35,
+			"h": 34
+		},
+		"back": {
+			"w": 33,
+			"h": 36
+		}
+	},
+	"nidorina": {
+		"bday": 30,
+		"front": {
+			"w": 52,
+			"h": 47
+		},
+		"back": {
+			"w": 51,
+			"h": 43
+		}
+	},
+	"nidoqueen": {
+		"bday": 31,
+		"front": {
+			"w": 77,
+			"h": 70
+		},
+		"back": {
+			"w": 85,
+			"h": 71
+		}
+	},
+	"nidoranm": {
+		"bday": 32,
+		"front": {
+			"w": 37,
+			"h": 37
+		},
+		"back": {
+			"w": 37,
+			"h": 43
+		}
+	},
+	"nidorino": {
+		"bday": 33,
+		"front": {
+			"w": 52,
+			"h": 56
+		},
+		"back": {
+			"w": 54,
+			"h": 56
+		}
+	},
+	"nidoking": {
+		"bday": 34,
+		"front": {
+			"w": 86,
+			"h": 71
+		},
+		"back": {
+			"w": 88,
+			"h": 69
+		}
+	},
+	"clefairy": {
+		"bday": 35,
+		"front": {
+			"w": 48,
+			"h": 42
+		},
+		"back": {
+			"w": 55,
+			"h": 43
+		}
+	},
+	"clefable": {
+		"bday": 36,
+		"front": {
+			"w": 54,
+			"h": 52
+		},
+		"back": {
+			"w": 55,
+			"h": 51
+		}
+	},
+	"clefablemega": {
+		"bday": 36
+	},
+	"vulpix": {
+		"bday": 37,
+		"front": {
+			"w": 60,
+			"h": 50
+		},
+		"back": {
+			"w": 62,
+			"h": 52
+		}
+	},
+	"vulpixalola": {
+		"bday": 37,
+		"front": {
+			"w": 59,
+			"h": 46
+		},
+		"back": {
+			"w": 63,
+			"h": 49
+		}
+	},
+	"ninetales": {
+		"bday": 38,
+		"front": {
+			"w": 74,
+			"h": 73
+		},
+		"back": {
+			"w": 76,
+			"h": 64
+		}
+	},
+	"ninetalesalola": {
+		"bday": 38,
+		"front": {
+			"w": 86,
+			"h": 67
+		},
+		"back": {
+			"w": 82,
+			"h": 69
+		}
+	},
+	"jigglypuff": {
+		"bday": 39,
+		"front": {
+			"w": 47,
+			"h": 46
+		},
+		"back": {
+			"w": 46,
+			"h": 48
+		}
+	},
+	"wigglytuff": {
+		"bday": 40,
+		"front": {
+			"w": 48,
+			"h": 82
+		},
+		"back": {
+			"w": 47,
+			"h": 82
+		}
+	},
+	"zubat": {
+		"bday": 41,
+		"front": {
+			"w": 53,
+			"h": 46
+		},
+		"frontf": {
+			"w": 53,
+			"h": 46
+		},
+		"back": {
+			"w": 49,
+			"h": 59
+		},
+		"backf": {
+			"w": 49,
+			"h": 59
+		}
+	},
+	"golbat": {
+		"bday": 42,
+		"front": {
+			"w": 110,
+			"h": 82
+		},
+		"frontf": {
+			"w": 110,
+			"h": 82
+		},
+		"back": {
+			"w": 95,
+			"h": 84
+		},
+		"backf": {
+			"w": 95,
+			"h": 84
+		}
+	},
+	"oddish": {
+		"bday": 43,
+		"front": {
+			"w": 37,
+			"h": 50
+		},
+		"back": {
+			"w": 41,
+			"h": 51
+		}
+	},
+	"gloom": {
+		"bday": 44,
+		"front": {
+			"w": 50,
+			"h": 45
+		},
+		"frontf": {
+			"w": 50,
+			"h": 45
+		},
+		"back": {
+			"w": 49,
+			"h": 47
+		},
+		"backf": {
+			"w": 49,
+			"h": 47
+		}
+	},
+	"vileplume": {
+		"bday": 45,
+		"front": {
+			"w": 56,
+			"h": 50
+		},
+		"frontf": {
+			"w": 56,
+			"h": 50
+		},
+		"back": {
+			"w": 56,
+			"h": 48
+		},
+		"backf": {
+			"w": 56,
+			"h": 48
+		}
+	},
+	"paras": {
+		"bday": 46
+	},
+	"parasect": {
+		"bday": 47
+		
+	},
+	"venonat": {
+		"bday": 48
+	},
+	"venomoth": {
+		"bday": 49	
+	},
+	"diglett": {
+		"bday": 50,
+		"front": {
+			"w": 38,
+			"h": 31
+		},
+		"back": {
+			"w": 38,
+			"h": 32
+		}
+	},
+	"diglettalola": {
+		"bday": 50,
+		"front": {
+			"w": 31,
+			"h": 33
+		},
+		"back": {
+			"w": 31,
+			"h": 33
+		}
+	},
+	"dugtrio": {
+		"bday": 51,
+		"front": {
+			"w": 52,
+			"h": 42
+		},
+		"back": {
+			"w": 52,
+			"h": 43
+		}
+	},
+	"dugtrioalola": {
+		"bday": 51,
+		"front": {
+			"w": 48,
+			"h": 45
+		},
+		"back": {
+			"w": 50,
+			"h": 45
+		}
+	},
+	"meowth": {
+		"bday": 52,
+		"front": {
+			"w": 48,
+			"h": 65
+		},
+		"back": {
+			"w": 59,
+			"h": 64
+		}
+	},
+	"meowthalola": {
+		"bday": 52,
+		"front": {
+			"w": 42,
+			"h": 46
+		},
+		"back": {
+			"w": 48,
+			"h": 46
+		}
+	},
+	"meowthgalar": {
+		"bday": 52,
+		"front": {
+			"w": 53,
+			"h": 63
+		}
+	},
+	"meowthgmax": {
+		"bday": 52,
+		"front": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"persian": {
+		"bday": 53,
+		"front": {
+			"w": 72,
+			"h": 62
+		},
+		"back": {
+			"w": 78,
+			"h": 56
+		}
+	},
+	"persianalola": {
+		"bday": 53,
+		"front": {
+			"w": 74,
+			"h": 66
+		},
+		"back": {
+			"w": 74,
+			"h": 67
+		}
+	},
+	"psyduck": {
+		"bday": 54,
+		"front": {
+			"w": 38,
+			"h": 46
+		},
+		"back": {
+			"w": 37,
+			"h": 45
+		}
+	},
+	"golduck": {
+		"bday": 55,
+		"front": {
+			"w": 60,
+			"h": 59
+		},
+		"back": {
+			"w": 55,
+			"h": 57
+		}
+	},
+	"mankey": {
+		"bday": 56,
+		"front": {
+			"w": 65,
+			"h": 61
+		},
+		"back": {
+			"w": 61,
+			"h": 59
+		}
+	},
+	"primeape": {
+		"bday": 57,
+		"front": {
+			"w": 67,
+			"h": 61
+		},
+		"back": {
+			"w": 72,
+			"h": 58
+		}
+	},
+	"growlithe": {
+		"bday": 58,
+		"front": {
+			"w": 56,
+			"h": 51
+		},
+		"back": {
+			"w": 56,
+			"h": 58
+		}
+	},
+	"growlithehisui": {
+		"bday": 58
+	},
+	"arcanine": {
+		"bday": 59,
+		"front": {
+			"w": 78,
+			"h": 69
+		},
+		"back": {
+			"w": 86,
+			"h": 69
+		}
+	},
+	"arcaninehisui": {
+		"bday": 59
+	},
+	"poliwag": {
+		"bday": 60,
+		"front": {
+			"w": 53,
+			"h": 34
+		},
+		"back": {
+			"w": 54,
+			"h": 35
+		}
+	},
+	"poliwhirl": {
+		"bday": 61,
+		"front": {
+			"w": 74,
+			"h": 55
+		},
+		"back": {
+			"w": 80,
+			"h": 58
+		}
+	},
+	"poliwrath": {
+		"bday": 62,
+		"front": {
+			"w": 81,
+			"h": 57
+		},
+		"back": {
+			"w": 74,
+			"h": 57
+		}
+	},
+	"abra": {
+		"bday": 63,
+		"front": {
+			"w": 64,
+			"h": 53
+		},
+		"back": {
+			"w": 71,
+			"h": 56
+		}
+	},
+	"kadabra": {
+		"bday": 64,
+		"front": {
+			"w": 78,
+			"h": 61
+		},
+		"frontf": {
+			"w": 78,
+			"h": 61
+		},
+		"back": {
+			"w": 80,
+			"h": 65
+		},
+		"backf": {
+			"w": 80,
+			"h": 65
+		}
+	},
+	"alakazam": {
+		"bday": 65,
+		"front": {
+			"w": 92,
+			"h": 69
+		},
+		"frontf": {
+			"w": 92,
+			"h": 69
+		},
+		"back": {
+			"w": 83,
+			"h": 66
+		},
+		"backf": {
+			"w": 83,
+			"h": 66
+		}
+	},
+	"alakazammega": {
+		"bday": 65,
+		"front": {
+			"w": 88,
+			"h": 98
+		}
+	},
+	"machop": {
+		"bday": 66,
+		"front": {
+			"w": 50,
+			"h": 50
+		},
+		"back": {
+			"w": 52,
+			"h": 51
+		}
+	},
+	"machoke": {
+		"bday": 67,
+		"front": {
+			"w": 61,
+			"h": 71
+		},
+		"back": {
+			"w": 61,
+			"h": 72
+		}
+	},
+	"machamp": {
+		"bday": 68,
+		"front": {
+			"w": 63,
+			"h": 77
+		},
+		"back": {
+			"w": 67,
+			"h": 77
+		}
+	},
+	"machampgmax": {
+		"bday": 68
+	},
+	"bellsprout": {
+		"bday": 69,
+		"front": {
+			"w": 41,
+			"h": 44
+		},
+		"back": {
+			"w": 44,
+			"h": 52
+		}
+	},
+	"weepinbell": {
+		"bday": 70,
+		"front": {
+			"w": 68,
+			"h": 50
+		},
+		"back": {
+			"w": 72,
+			"h": 54
+		}
+	},
+	"victreebel": {
+		"bday": 71,
+		"front": {
+			"w": 65,
+			"h": 71
+		},
+		"back": {
+			"w": 69,
+			"h": 70
+		}
+	},
+	"victreebelmega": {
+		"bday": 71
+	},
+	"tentacool": {
+		"bday": 72,
+		"front": {
+			"w": 57,
+			"h": 70
+		},
+		"back": {
+			"w": 62,
+			"h": 77
+		}
+	},
+	"tentacruel": {
+		"bday": 73,
+		"front": {
+			"w": 83,
+			"h": 85
+		},
+		"back": {
+			"w": 84,
+			"h": 85
+		}
+	},
+	"geodude": {
+		"bday": 74,
+		"front": {
+			"w": 61,
+			"h": 45
+		},
+		"back": {
+			"w": 57,
+			"h": 52
+		}
+	},
+	"geodudealola": {
+		"bday": 74,
+		"front": {
+			"w": 70,
+			"h": 42
+		},
+		"back": {
+			"w": 71,
+			"h": 44
+		}
+	},
+	"graveler": {
+		"bday": 75,
+		"front": {
+			"w": 71,
+			"h": 44
+		},
+		"back": {
+			"w": 65,
+			"h": 43
+		}
+	},
+	"graveleralola": {
+		"bday": 75,
+		"front": {
+			"w": 84,
+			"h": 46
+		},
+		"back": {
+			"w": 81,
+			"h": 47
+		}
+	},
+	"golem": {
+		"bday": 76,
+		"front": {
+			"w": 72,
+			"h": 57
+		},
+		"back": {
+			"w": 68,
+			"h": 56
+		}
+	},
+	"golemalola": {
+		"bday": 76,
+		"front": {
+			"w": 61,
+			"h": 74
+		},
+		"back": {
+			"w": 61,
+			"h": 69
+		}
+	},
+	"ponyta": {
+		"bday": 77,
+		"front": {
+			"w": 58,
+			"h": 57
+		},
+		"back": {
+			"w": 58,
+			"h": 59
+		}
+	},
+	"ponytagalar": {
+		"bday": 77,
+		"front": {
+			"w": 69,
+			"h": 57
+		}
+	},
+	"rapidash": {
+		"bday": 78,
+		"front": {
+			"w": 74,
+			"h": 73
+		},
+		"back": {
+			"w": 76,
+			"h": 76
+		}
+	},
+	"rapidashgalar": {
+		"bday": 78
+	},
+	"slowpoke": {
+		"bday": 79,
+		"front": {
+			"w": 65,
+			"h": 54
+		},
+		"back": {
+			"w": 67,
+			"h": 51
+		}
+	},
+	"slowpokegalar": {
+		"bday": 79,
+		"front": {
+			"w": 60,
+			"h": 35
+		}
+	},
+	"slowbro": {
+		"bday": 80,
+		"front": {
+			"w": 62,
+			"h": 60
+		},
+		"back": {
+			"w": 76,
+			"h": 58
+		}
+	},
+	"slowbromega": {
+		"bday": 80
+	},
+	"slowbrogalar": {
+		"bday": 80,
+		"front": {
+			"w": 82,
+			"h": 60
+		}
+	},
+	"magnemite": {
+		"bday": 81,
+		"front": {
+			"w": 37,
+			"h": 33
+		},
+		"back": {
+			"w": 36,
+			"h": 31
+		}
+	},
+	"magneton": {
+		"bday": 82,
+		"front": {
+			"w": 68,
+			"h": 60
+		},
+		"back": {
+			"w": 73,
+			"h": 59
+		}
+	},
+	"farfetchd": {
+		"bday": 83,
+		"front": {
+			"w": 45,
+			"h": 49
+		},
+		"back": {
+			"w": 46,
+			"h": 50
+		}
+	},
+	"farfetchdgalar": {
+		"bday": 83,
+		"front": {
+			"w": 88,
+			"h": 48
+		},
+		"back": {
+			"w": 86,
+			"h": 48
+		}
+	},
+	"doduo": {
+		"bday": 84,
+		"front": {
+			"w": 60,
+			"h": 54
+		},
+		"frontf": {
+			"w": 60,
+			"h": 54
+		},
+		"back": {
+			"w": 60,
+			"h": 57
+		},
+		"backf": {
+			"w": 60,
+			"h": 57
+		}
+	},
+	"dodrio": {
+		"bday": 85,
+		"front": {
+			"w": 70,
+			"h": 76
+		},
+		"frontf": {
+			"w": 70,
+			"h": 76
+		},
+		"back": {
+			"w": 73,
+			"h": 76
+		},
+		"backf": {
+			"w": 73,
+			"h": 76
+		}
+	},
+	"seel": {
+		"bday": 86,
+		"front": {
+			"w": 62,
+			"h": 47
+		},
+		"back": {
+			"w": 61,
+			"h": 43
+		}
+	},
+	"dewgong": {
+		"bday": 87,
+		"front": {
+			"w": 75,
+			"h": 75
+		},
+		"back": {
+			"w": 76,
+			"h": 87
+		}
+	},
+	"grimer": {
+		"bday": 88,
+		"front": {
+			"w": 72,
+			"h": 42
+		},
+		"back": {
+			"w": 71,
+			"h": 46
+		}
+	},
+	"grimeralola": {
+		"bday": 88,
+		"front": {
+			"w": 61,
+			"h": 40
+		},
+		"back": {
+			"w": 58,
+			"h": 39
+		}
+	},
+	"muk": {
+		"bday": 89,
+		"front": {
+			"w": 94,
+			"h": 68
+		},
+		"back": {
+			"w": 100,
+			"h": 82
+		}
+	},
+	"mukalola": {
+		"bday": 89,
+		"front": {
+			"w": 83,
+			"h": 64
+		},
+		"back": {
+			"w": 93,
+			"h": 62
+		}
+	},
+	"shellder": {
+		"bday": 90,
+		"front": {
+			"w": 42,
+			"h": 38
+		},
+		"back": {
+			"w": 47,
+			"h": 38
+		}
+	},
+	"cloyster": {
+		"bday": 91,
+		"front": {
+			"w": 73,
+			"h": 65
+		},
+		"back": {
+			"w": 69,
+			"h": 68
+		}
+	},
+	"gastly": {
+		"bday": 92,
+		"front": {
+			"w": 67,
+			"h": 75
+		},
+		"back": {
+			"w": 64,
+			"h": 78
+		}
+	},
+	"haunter": {
+		"bday": 93,
+		"front": {
+			"w": 85,
+			"h": 71
+		},
+		"back": {
+			"w": 91,
+			"h": 71
+		}
+	},
+	"gengar": {
+		"bday": 94,
+		"front": {
+			"w": 79,
+			"h": 65
+		},
+		"back": {
+			"w": 72,
+			"h": 65
+		}
+	},
+	"gengarmega": {
+		"bday": 94
+	},
+	"gengargmax": {
+		"bday": 94
+	},
+	"onix": {
+		"bday": 95,
+		"front": {
+			"w": 73,
+			"h": 74
+		},
+		"back": {
+			"w": 98,
+			"h": 70
+		}
+	},
+	"drowzee": {
+		"bday": 96,
+		"front": {
+			"w": 52,
+			"h": 58
+		},
+		"back": {
+			"w": 57,
+			"h": 57
+		}
+	},
+	"hypno": {
+		"bday": 97,
+		"front": {
+			"w": 67,
+			"h": 62
+		},
+		"frontf": {
+			"w": 67,
+			"h": 62
+		},
+		"back": {
+			"w": 65,
+			"h": 60
+		},
+		"backf": {
+			"w": 65,
+			"h": 60
+		}
+	},
+	"krabby": {
+		"bday": 98,
+		"front": {
+			"w": 55,
+			"h": 40
+		},
+		"back": {
+			"w": 56,
+			"h": 43
+		}
+	},
+	"kingler": {
+		"bday": 99,
+		"front": {
+			"w": 82,
+			"h": 59
+		},
+		"back": {
+			"w": 83,
+			"h": 62
+		}
+	},
+	"kinglergmax": {
+		"bday": 99
+	},
+	"voltorb": {
+		"bday": 100,
+		"front": {
+			"w": 46,
+			"h": 31
+		},
+		"back": {
+			"w": 46,
+			"h": 31
+		}
+	},
+	"voltorbhisui": {
+		"bday": 100,
+		"front": {
+			"w": 51,
+			"h": 48
+		}
+	},
+	"electrode": {
+		"bday": 101,
+		"front": {
+			"w": 48,
+			"h": 52
+		},
+		"back": {
+			"w": 48,
+			"h": 52
+		}
+	},
+	"electrodehisui": {
+		"bday": 101
+	},
+	"exeggcute": {
+		"bday": 102,
+		"front": {
+			"w": 54,
+			"h": 43
+		},
+		"back": {
+			"w": 55,
+			"h": 40
+		}
+	},
+	"exeggutor": {
+		"bday": 103,
+		"front": {
+			"w": 78,
+			"h": 73
+		},
+		"back": {
+			"w": 75,
+			"h": 71
+		}
+	},
+	"exeggutoralola": {
+		"bday": 103,
+		"front": {
+			"w": 113,
+			"h": 102
+		},
+		"back": {
+			"w": 109,
+			"h": 100
+		}
+	},
+	"cubone": {
+		"bday": 104,
+		"front": {
+			"w": 49,
+			"h": 43
+		},
+		"back": {
+			"w": 53,
+			"h": 41
+		}
+	},
+	"marowak": {
+		"bday": 105,
+		"front": {
+			"w": 67,
+			"h": 59
+		},
+		"back": {
+			"w": 65,
+			"h": 52
+		}
+	},
+	"marowakalola": {
+		"bday": 105,
+		"front": {
+			"w": 71,
+			"h": 72
+		},
+		"back": {
+			"w": 66,
+			"h": 76
+		}
+	},
+	"marowakalolatotem": {
+		"bday": 105
+	},
+	"hitmonlee": {
+		"bday": 106,
+		"front": {
+			"w": 67,
+			"h": 78
+		},
+		"back": {
+			"w": 62,
+			"h": 75
+		}
+	},
+	"hitmonchan": {
+		"bday": 107,
+		"front": {
+			"w": 34,
+			"h": 59
+		},
+		"back": {
+			"w": 44,
+			"h": 56
+		}
+	},
+	"lickitung": {
+		"bday": 108,
+		"front": {
+			"w": 68,
+			"h": 52
+		},
+		"back": {
+			"w": 76,
+			"h": 53
+		}
+	},
+	"koffing": {
+		"bday": 109,
+		"front": {
+			"w": 90,
+			"h": 59
+		},
+		"back": {
+			"w": 78,
+			"h": 64
+		}
+	},
+	"weezing": {
+		"bday": 110,
+		"front": {
+			"w": 85,
+			"h": 68
+		},
+		"back": {
+			"w": 87,
+			"h": 69
+		}
+	},
+	"weezinggalar": {
+		"bday": 110,
+		"front": {
+			"w": 91,
+			"h": 93
+		}
+	},
+	"rhyhorn": {
+		"bday": 111,
+		"front": {
+			"w": 68,
+			"h": 54
+		},
+		"frontf": {
+			"w": 66,
+			"h": 54
+		},
+		"back": {
+			"w": 73,
+			"h": 54
+		},
+		"backf": {
+			"w": 72,
+			"h": 54
+		}
+	},
+	"rhydon": {
+		"bday": 112,
+		"front": {
+			"w": 79,
+			"h": 68
+		},
+		"frontf": {
+			"w": 79,
+			"h": 68
+		},
+		"back": {
+			"w": 84,
+			"h": 69
+		},
+		"backf": {
+			"w": 81,
+			"h": 69
+		}
+	},
+	"chansey": {
+		"bday": 113,
+		"front": {
+			"w": 61,
+			"h": 47
+		},
+		"back": {
+			"w": 66,
+			"h": 47
+		}
+	},
+	"tangela": {
+		"bday": 114,
+		"front": {
+			"w": 49,
+			"h": 42
+		},
+		"back": {
+			"w": 49,
+			"h": 42
+		}
+	},
+	"kangaskhan": {
+		"bday": 115,
+		"front": {
+			"w": 79,
+			"h": 61
+		},
+		"back": {
+			"w": 72,
+			"h": 67
+		}
+	},
+	"kangaskhanmega": {
+		"bday": 115
+	},
+	"horsea": {
+		"bday": 116,
+		"front": {
+			"w": 34,
+			"h": 43
+		},
+		"back": {
+			"w": 39,
+			"h": 40
+		}
+	},
+	"seadra": {
+		"bday": 117,
+		"front": {
+			"w": 57,
+			"h": 57
+		},
+		"back": {
+			"w": 64,
+			"h": 58
+		}
+	},
+	"goldeen": {
+		"bday": 118,
+		"front": {
+			"w": 75,
+			"h": 57
+		},
+		"frontf": {
+			"w": 75,
+			"h": 57
+		},
+		"back": {
+			"w": 74,
+			"h": 57
+		},
+		"backf": {
+			"w": 74,
+			"h": 55
+		}
+	},
+	"seaking": {
+		"bday": 119,
+		"front": {
+			"w": 75,
+			"h": 67
+		},
+		"frontf": {
+			"w": 73,
+			"h": 67
+		},
+		"back": {
+			"w": 96,
+			"h": 72
+		},
+		"backf": {
+			"w": 94,
+			"h": 72
+		}
+	},
+	"staryu": {
+		"bday": 120,
+		"front": {
+			"w": 58,
+			"h": 49
+		},
+		"back": {
+			"w": 55,
+			"h": 52
+		}
+	},
+	"starmie": {
+		"bday": 121,
+		"front": {
+			"w": 65,
+			"h": 59
+		},
+		"back": {
+			"w": 55,
+			"h": 55
+		}
+	},
+	"starmiemega": {
+		"bday": 121
+	},
+	"mrmime": {
+		"bday": 122,
+		"front": {
+			"w": 58,
+			"h": 53
+		},
+		"back": {
+			"w": 54,
+			"h": 51
+		}
+	},
+	"mrmimegalar": {
+		"bday": 122
+	},
+	"scyther": {
+		"bday": 123,
+		"front": {
+			"w": 55,
+			"h": 61
+		},
+		"frontf": {
+			"w": 55,
+			"h": 61
+		},
+		"back": {
+			"w": 69,
+			"h": 65
+		},
+		"backf": {
+			"w": 69,
+			"h": 65
+		}
+	},
+	"jynx": {
+		"bday": 124,
+		"front": {
+			"w": 63,
+			"h": 60
+		},
+		"back": {
+			"w": 62,
+			"h": 60
+		}
+	},
+	"electabuzz": {
+		"bday": 125,
+		"front": {
+			"w": 72,
+			"h": 65
+		},
+		"back": {
+			"w": 72,
+			"h": 64
+		}
+	},
+	"magmar": {
+		"bday": 126,
+		"front": {
+			"w": 71,
+			"h": 61
+		},
+		"back": {
+			"w": 70,
+			"h": 59
+		}
+	},
+	"pinsir": {
+		"bday": 127,
+		"front": {
+			"w": 72,
+			"h": 63
+		},
+		"back": {
+			"w": 70,
+			"h": 61
+		}
+	},
+	"pinsirmega": {
+		"bday": 127
+	},
+	"tauros": {
+		"bday": 128,
+		"front": {
+			"w": 75,
+			"h": 59
+		},
+		"back": {
+			"w": 72,
+			"h": 54
+		}
+	},
+	"taurospaldeacombat": {
+		"bday": 128
+	},
+	"taurospaldeablaze": {
+		"bday": 128
+	},
+	"taurospaldeaaqua": {
+		"bday": 128
+	},
+	"magikarp": {
+		"bday": 129,
+		"front": {
+			"w": 47,
+			"h": 64
+		},
+		"frontf": {
+			"w": 47,
+			"h": 64
+		},
+		"back": {
+			"w": 66,
+			"h": 58
+		},
+		"backf": {
+			"w": 66,
+			"h": 58
+		}
+	},
+	"gyarados": {
+		"bday": 130,
+		"front": {
+			"w": 102,
+			"h": 84
+		},
+		"frontf": {
+			"w": 102,
+			"h": 84
+		},
+		"back": {
+			"w": 109,
+			"h": 83
+		},
+		"backf": {
+			"w": 109,
+			"h": 83
+		}
+	},
+	"gyaradosmega": {
+		"bday": 130
+	},
+	"lapras": {
+		"bday": 131,
+		"front": {
+			"w": 68,
+			"h": 72
+		},
+		"back": {
+			"w": 75,
+			"h": 71
+		}
+	},
+	"laprasgmax": {
+		"bday": 131
+	},
+	"ditto": {
+		"bday": 132,
+		"front": {
+			"w": 47,
+			"h": 32
+		},
+		"back": {
+			"w": 47,
+			"h": 32
+		}
+	},
+	"eevee": {
+		"bday": 133,
+		"front": {
+			"w": 48,
+			"h": 47
+		},
+		"back": {
+			"w": 49,
+			"h": 50
+		}
+	},
+	"eeveestarter": {
+		"bday": 133
+	},
+	"eeveegmax": {
+		"bday": 133,
+		"front": {
+			"w": 75,
+			"h": 80
+		}
+	},
+	"vaporeon": {
+		"bday": 134,
+		"front": {
+			"w": 50,
+			"h": 59
+		},
+		"back": {
+			"w": 50,
+			"h": 56
+		}
+	},
+	"jolteon": {
+		"bday": 135,
+		"front": {
+			"w": 47,
+			"h": 49
+		},
+		"back": {
+			"w": 49,
+			"h": 48
+		}
+	},
+	"flareon": {
+		"bday": 136,
+		"front": {
+			"w": 66,
+			"h": 60
+		},
+		"back": {
+			"w": 70,
+			"h": 59
+		}
+	},
+	"porygon": {
+		"bday": 137,
+		"front": {
+			"w": 57,
+			"h": 53
+		},
+		"back": {
+			"w": 62,
+			"h": 48
+		}
+	},
+	"omanyte": {
+		"bday": 138,
+		"front": {
+			"w": 43,
+			"h": 45
+		},
+		"back": {
+			"w": 49,
+			"h": 48
+		}
+	},
+	"omastar": {
+		"bday": 139,
+		"front": {
+			"w": 63,
+			"h": 59
+		},
+		"back": {
+			"w": 64,
+			"h": 61
+		}
+	},
+	"kabuto": {
+		"bday": 140,
+		"front": {
+			"w": 39,
+			"h": 41
+		},
+		"back": {
+			"w": 37,
+			"h": 43
+		}
+	},
+	"kabutops": {
+		"bday": 141,
+		"front": {
+			"w": 65,
+			"h": 61
+		},
+		"back": {
+			"w": 67,
+			"h": 55
+		}
+	},
+	"aerodactyl": {
+		"bday": 142,
+		"front": {
+			"w": 94,
+			"h": 82
+		},
+		"back": {
+			"w": 89,
+			"h": 92
+		}
+	},
+	"aerodactylmega": {
+		"bday": 142
+	},
+	"snorlax": {
+		"bday": 143,
+		"front": {
+			"w": 74,
+			"h": 75
+		},
+		"back": {
+			"w": 75,
+			"h": 71
+		}
+	},
+	"snorlaxgmax": {
+		"bday": 143
+	},
+	"articuno": {
+		"bday": 144,
+		"front": {
+			"w": 73,
+			"h": 81
+		},
+		"back": {
+			"w": 78,
+			"h": 87
+		}
+	},
+	"articunogalar": {
+		"bday": 144,
+		"front": {
+			"w": 86,
+			"h": 71
+		}
+	},
+	"zapdos": {
+		"bday": 145,
+		"front": {
+			"w": 96,
+			"h": 71
+		},
+		"back": {
+			"w": 85,
+			"h": 72
+		}
+	},
+	"zapdosgalar": {
+		"bday": 145,
+		"front": {
+			"w": 72,
+			"h": 70
+		},
+		"back": {
+			"w": 70,
+			"h": 69
+		}
+	},
+	"moltres": {
+		"bday": 146,
+		"front": {
+			"w": 128,
+			"h": 97
+		},
+		"back": {
+			"w": 117,
+			"h": 79
+		}
+	},
+	"moltresgalar": {
+		"bday": 146
+	},
+	"dratini": {
+		"bday": 147,
+		"front": {
+			"w": 43,
+			"h": 51
+		},
+		"back": {
+			"w": 48,
+			"h": 56
+		}
+	},
+	"dragonair": {
+		"bday": 148,
+		"front": {
+			"w": 64,
+			"h": 73
+		},
+		"back": {
+			"w": 63,
+			"h": 74
+		}
+	},
+	"dragonite": {
+		"bday": 149,
+		"front": {
+			"w": 80,
+			"h": 82
+		},
+		"back": {
+			"w": 86,
+			"h": 81
+		}
+	},
+	"dragonitemega": {
+		"bday": 149
+	},
+	"mewtwo": {
+		"bday": 150,
+		"front": {
+			"w": 90,
+			"h": 69
+		},
+		"back": {
+			"w": 95,
+			"h": 71
+		}
+	},
+	"mewtwomegax": {
+		"bday": 150,
+		"front": {
+			"w": 55,
+			"h": 71
+		}
+	},
+	"mewtwomegay": {
+		"bday": 150,
+		"front": {
+			"w": 75,
+			"h": 87
+		}
+	},
+	"mew": {
+		"bday": 151,
+		"front": {
+			"w": 77,
+			"h": 53
+		},
+		"back": {
+			"w": 60,
+			"h": 61
+		}
+	},
+	"chikorita": {
+		"bday": 152,
+		"front": {
+			"w": 41,
+			"h": 56
+		},
+		"back": {
+			"w": 41,
+			"h": 59
+		}
+	},
+	"bayleef": {
+		"bday": 153,
+		"front": {
+			"w": 52,
+			"h": 80
+		},
+		"back": {
+			"w": 53,
+			"h": 76
+		}
+	},
+	"meganium": {
+		"bday": 154,
+		"front": {
+			"w": 59,
+			"h": 82
+		},
+		"frontf": {
+			"w": 59,
+			"h": 82
+		},
+		"back": {
+			"w": 64,
+			"h": 80
+		},
+		"backf": {
+			"w": 64,
+			"h": 80
+		}
+	},
+	"meganiummega": {
+		"bday": 154
+	},
+	"cyndaquil": {
+		"bday": 155,
+		"front": {
+			"w": 44,
+			"h": 37
+		},
+		"back": {
+			"w": 46,
+			"h": 37
+		}
+	},
+	"quilava": {
+		"bday": 156,
+		"front": {
+			"w": 63,
+			"h": 53
+		},
+		"back": {
+			"w": 63,
+			"h": 53
+		}
+	},
+	"typhlosion": {
+		"bday": 157,
+		"front": {
+			"w": 59,
+			"h": 72
+		},
+		"back": {
+			"w": 60,
+			"h": 72
+		}
+	},
+	"typhlosionhisui": {
+		"bday": 157
+	},
+	"totodile": {
+		"bday": 158,
+		"front": {
+			"w": 43,
+			"h": 59
+		},
+		"back": {
+			"w": 43,
+			"h": 61
+		}
+	},
+	"croconaw": {
+		"bday": 159,
+		"front": {
+			"w": 45,
+			"h": 59
+		},
+		"back": {
+			"w": 46,
+			"h": 58
+		}
+	},
+	"feraligatr": {
+		"bday": 160,
+		"front": {
+			"w": 83,
+			"h": 72
+		},
+		"back": {
+			"w": 82,
+			"h": 73
+		}
+	},
+	"feraligatrmega": {
+		"bday": 160
+	},
+	"sentret": {
+		"bday": 161,
+		"front": {
+			"w": 50,
+			"h": 68
+		},
+		"back": {
+			"w": 48,
+			"h": 65
+		}
+	},
+	"furret": {
+		"bday": 162,
+		"front": {
+			"w": 55,
+			"h": 58
+		},
+		"back": {
+			"w": 62,
+			"h": 61
+		}
+	},
+	"hoothoot": {
+		"bday": 163,
+		"front": {
+			"w": 51,
+			"h": 60
+		},
+		"back": {
+			"w": 53,
+			"h": 58
+		}
+	},
+	"noctowl": {
+		"bday": 164,
+		"front": {
+			"w": 44,
+			"h": 67
+		},
+		"back": {
+			"w": 40,
+			"h": 68
+		}
+	},
+	"ledyba": {
+		"bday": 165,
+		"front": {
+			"w": 44,
+			"h": 51
+		},
+		"frontf": {
+			"w": 44,
+			"h": 48
+		},
+		"back": {
+			"w": 47,
+			"h": 47
+		},
+		"backf": {
+			"w": 47,
+			"h": 46
+		}
+	},
+	"ledian": {
+		"bday": 166,
+		"front": {
+			"w": 55,
+			"h": 65
+		},
+		"frontf": {
+			"w": 55,
+			"h": 62
+		},
+		"back": {
+			"w": 59,
+			"h": 64
+		},
+		"backf": {
+			"w": 59,
+			"h": 61
+		}
+	},
+	"spinarak": {
+		"bday": 167,
+		"front": {
+			"w": 43,
+			"h": 28
+		},
+		"back": {
+			"w": 45,
+			"h": 35
+		}
+	},
+	"ariados": {
+		"bday": 168,
+		"front": {
+			"w": 65,
+			"h": 51
+		},
+		"back": {
+			"w": 56,
+			"h": 44
+		}
+	},
+	"crobat": {
+		"bday": 169,
+		"front": {
+			"w": 105,
+			"h": 73
+		},
+		"back": {
+			"w": 107,
+			"h": 64
+		}
+	},
+	"chinchou": {
+		"bday": 170,
+		"front": {
+			"w": 66,
+			"h": 52
+		},
+		"back": {
+			"w": 68,
+			"h": 46
+		}
+	},
+	"lanturn": {
+		"bday": 171,
+		"front": {
+			"w": 74,
+			"h": 59
+		},
+		"back": {
+			"w": 71,
+			"h": 59
+		}
+	},
+	"pichu": {
+		"bday": 172,
+		"front": {
+			"w": 44,
+			"h": 49
+		},
+		"back": {
+			"w": 43,
+			"h": 49
+		}
+	},
+	"pichuspikyeared": {
+		"bday": 172
+	},
+	"cleffa": {
+		"bday": 173,
+		"front": {
+			"w": 36,
+			"h": 34
+		},
+		"back": {
+			"w": 38,
+			"h": 34
+		}
+	},
+	"igglybuff": {
+		"bday": 174,
+		"front": {
+			"w": 55,
+			"h": 51
+		},
+		"back": {
+			"w": 57,
+			"h": 51
+		}
+	},
+	"togepi": {
+		"bday": 175,
+		"front": {
+			"w": 40,
+			"h": 38
+		},
+		"back": {
+			"w": 37,
+			"h": 38
+		}
+	},
+	"togetic": {
+		"bday": 176,
+		"front": {
+			"w": 34,
+			"h": 70
+		},
+		"back": {
+			"w": 36,
+			"h": 73
+		}
+	},
+	"natu": {
+		"bday": 177,
+		"front": {
+			"w": 37,
+			"h": 41
+		},
+		"back": {
+			"w": 42,
+			"h": 38
+		}
+	},
+	"xatu": {
+		"bday": 178,
+		"front": {
+			"w": 45,
+			"h": 60
+		},
+		"frontf": {
+			"w": 45,
+			"h": 60
+		},
+		"back": {
+			"w": 67,
+			"h": 60
+		},
+		"backf": {
+			"w": 67,
+			"h": 60
+		}
+	},
+	"mareep": {
+		"bday": 179,
+		"front": {
+			"w": 50,
+			"h": 41
+		},
+		"back": {
+			"w": 48,
+			"h": 41
+		}
+	},
+	"flaaffy": {
+		"bday": 180,
+		"front": {
+			"w": 46,
+			"h": 52
+		},
+		"back": {
+			"w": 45,
+			"h": 52
+		}
+	},
+	"ampharos": {
+		"bday": 181,
+		"front": {
+			"w": 61,
+			"h": 68
+		},
+		"back": {
+			"w": 65,
+			"h": 64
+		}
+	},
+	"ampharosmega": {
+		"bday": 181,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"bellossom": {
+		"bday": 182,
+		"front": {
+			"w": 42,
+			"h": 56
+		},
+		"back": {
+			"w": 42,
+			"h": 52
+		}
+	},
+	"darumakagalar": {
+		"bday": 554
+	},
+	"darmanitan": {
+		"bday": 555,
+		"front": {
+			"w": 63,
+			"h": 69
+		},
+		"back": {
+			"w": 57,
+			"h": 64
+		}
+	},
+	"darmanitanzen": {
+		"bday": 555,
+		"front": {
+			"w": 48,
+			"h": 48
+		},
+		"back": {
+			"w": 45,
+			"h": 48
+		}
+	},
+	"darmanitangalar": {
+		"bday": 555
+	},
+	"darmanitangalarzen": {
+		"bday": 555,
+		"front": {
+			"w": 52,
+			"h": 72
+		},
+		"back": {
+			"w": 46,
+			"h": 68
+		}
+	},
+	"maractus": {
+		"bday": 556,
+		"front": {
+			"w": 61,
+			"h": 71
+		},
+		"back": {
+			"w": 80,
+			"h": 71
+		}
+	},
+	"dwebble": {
+		"bday": 557,
+		"front": {
+			"w": 40,
+			"h": 38
+		},
+		"back": {
+			"w": 44,
+			"h": 35
+		}
+	},
+	"crustle": {
+		"bday": 558,
+		"front": {
+			"w": 74,
+			"h": 67
+		},
+		"back": {
+			"w": 80,
+			"h": 65
+		}
+	},
+	"scraggy": {
+		"bday": 559,
+		"front": {
+			"w": 38,
+			"h": 41
+		},
+		"back": {
+			"w": 34,
+			"h": 42
+		}
+	},
+	"scrafty": {
+		"bday": 560,
+		"front": {
+			"w": 49,
+			"h": 77
+		},
+		"back": {
+			"w": 48,
+			"h": 78
+		}
+	},
+	"scraftymega": {
+		"bday": 560
+	},
+	"sigilyph": {
+		"bday": 561,
+		"front": {
+			"w": 120,
+			"h": 99
+		},
+		"back": {
+			"w": 118,
+			"h": 98
+		}
+	},
+	"yamask": {
+		"bday": 562,
+		"front": {
+			"w": 65,
+			"h": 52
+		},
+		"back": {
+			"w": 63,
+			"h": 52
+		}
+	},
+	"yamaskgalar": {
+		"bday": 562
+	},
+	"cofagrigus": {
+		"bday": 563,
+		"front": {
+			"w": 121,
+			"h": 89
+		},
+		"back": {
+			"w": 105,
+			"h": 90
+		}
+	},
+	"tirtouga": {
+		"bday": 564,
+		"front": {
+			"w": 59,
+			"h": 47
+		},
+		"back": {
+			"w": 57,
+			"h": 52
+		}
+	},
+	"carracosta": {
+		"bday": 565,
+		"front": {
+			"w": 78,
+			"h": 61
+		},
+		"back": {
+			"w": 85,
+			"h": 63
+		}
+	},
+	"archen": {
+		"bday": 566,
+		"front": {
+			"w": 60,
+			"h": 54
+		},
+		"back": {
+			"w": 62,
+			"h": 47
+		}
+	},
+	"archeops": {
+		"bday": 567,
+		"front": {
+			"w": 79,
+			"h": 92
+		},
+		"back": {
+			"w": 82,
+			"h": 98
+		}
+	},
+	"trubbish": {
+		"bday": 568,
+		"front": {
+			"w": 54,
+			"h": 41
+		},
+		"back": {
+			"w": 60,
+			"h": 43
+		}
+	},
+	"garbodor": {
+		"bday": 569,
+		"front": {
+			"w": 92,
+			"h": 70
+		},
+		"back": {
+			"w": 101,
+			"h": 84
+		}
+	},
+	"garbodorgmax": {
+		"bday": 569,
+		"front": {
+			"w": 108,
+			"h": 88
+		},
+		"back": {
+			"w": 105,
+			"h": 95
+		}
+	},
+	"zorua": {
+		"bday": 570,
+		"front": {
+			"w": 45,
+			"h": 50
+		},
+		"back": {
+			"w": 44,
+			"h": 49
+		}
+	},
+	"zoruahisui": {
+		"bday": 570
+	},
+	"zoroark": {
+		"bday": 571,
+		"front": {
+			"w": 73,
+			"h": 64
+		},
+		"back": {
+			"w": 82,
+			"h": 66
+		}
+	},
+	"zoroarkhisui": {
+		"bday": 571,
+		"front": {
+			"w": 72,
+			"h": 77
+		}
+	},
+	"minccino": {
+		"bday": 572,
+		"front": {
+			"w": 64,
+			"h": 55
+		},
+		"back": {
+			"w": 65,
+			"h": 55
+		}
+	},
+	"cinccino": {
+		"bday": 573,
+		"front": {
+			"w": 67,
+			"h": 57
+		},
+		"back": {
+			"w": 70,
+			"h": 59
+		}
+	},
+	"gothita": {
+		"bday": 574,
+		"front": {
+			"w": 34,
+			"h": 39
+		},
+		"back": {
+			"w": 34,
+			"h": 40
+		}
+	},
+	"gothorita": {
+		"bday": 575,
+		"front": {
+			"w": 50,
+			"h": 61
+		},
+		"back": {
+			"w": 51,
+			"h": 59
+		}
+	},
+	"gothitelle": {
+		"bday": 576,
+		"front": {
+			"w": 67,
+			"h": 73
+		},
+		"back": {
+			"w": 71,
+			"h": 74
+		}
+	},
+	"solosis": {
+		"bday": 577,
+		"front": {
+			"w": 36,
+			"h": 36
+		},
+		"back": {
+			"w": 38,
+			"h": 36
+		}
+	},
+	"duosion": {
+		"bday": 578,
+		"front": {
+			"w": 67,
+			"h": 66
+		},
+		"back": {
+			"w": 67,
+			"h": 67
+		}
+	},
+	"reuniclus": {
+		"bday": 579,
+		"front": {
+			"w": 100,
+			"h": 63
+		},
+		"back": {
+			"w": 97,
+			"h": 67
+		}
+	},
+	"ducklett": {
+		"bday": 580,
+		"front": {
+			"w": 37,
+			"h": 40
+		},
+		"back": {
+			"w": 39,
+			"h": 42
+		}
+	},
+	"swanna": {
+		"bday": 581,
+		"front": {
+			"w": 137,
+			"h": 69
+		},
+		"back": {
+			"w": 93,
+			"h": 68
+		}
+	},
+	"vanillite": {
+		"bday": 582,
+		"front": {
+			"w": 55,
+			"h": 44
+		},
+		"back": {
+			"w": 56,
+			"h": 49
+		}
+	},
+	"vanillish": {
+		"bday": 583,
+		"front": {
+			"w": 58,
+			"h": 65
+		},
+		"back": {
+			"w": 58,
+			"h": 61
+		}
+	},
+	"vanilluxe": {
+		"bday": 584,
+		"front": {
+			"w": 63,
+			"h": 72
+		},
+		"back": {
+			"w": 60,
+			"h": 75
+		}
+	},
+	"deerling": {
+		"bday": 585,
+		"front": {
+			"w": 35,
+			"h": 50
+		},
+		"back": {
+			"w": 34,
+			"h": 51
+		}
+	},
+	"deerlingsummer": {
+		"bday": 585,
+		"front": {
+			"w": 35,
+			"h": 50
+		},
+		"back": {
+			"w": 34,
+			"h": 51
+		}
+	},
+	"deerlingautumn": {
+		"bday": 585,
+		"front": {
+			"w": 35,
+			"h": 50
+		},
+		"back": {
+			"w": 34,
+			"h": 51
+		}
+	},
+	"deerlingwinter": {
+		"bday": 585,
+		"front": {
+			"w": 35,
+			"h": 50
+		},
+		"back": {
+			"w": 34,
+			"h": 51
+		}
+	},
+	"sawsbuck": {
+		"bday": 586,
+		"front": {
+			"w": 45,
+			"h": 78
+		},
+		"back": {
+			"w": 53,
+			"h": 78
+		}
+	},
+	"sawsbucksummer": {
+		"bday": 586,
+		"front": {
+			"w": 71,
+			"h": 84
+		},
+		"back": {
+			"w": 71,
+			"h": 85
+		}
+	},
+	"sawsbuckautumn": {
+		"bday": 586,
+		"front": {
+			"w": 60,
+			"h": 85
+		},
+		"back": {
+			"w": 67,
+			"h": 82
+		}
+	},
+	"sawsbuckwinter": {
+		"bday": 586,
+		"front": {
+			"w": 50,
+			"h": 78
+		},
+		"back": {
+			"w": 57,
+			"h": 78
+		}
+	},
+	"emolga": {
+		"bday": 587,
+		"front": {
+			"w": 83,
+			"h": 76
+		},
+		"back": {
+			"w": 93,
+			"h": 76
+		}
+	},
+	"karrablast": {
+		"bday": 588,
+		"front": {
+			"w": 32,
+			"h": 54
+		},
+		"back": {
+			"w": 33,
+			"h": 55
+		}
+	},
+	"escavalier": {
+		"bday": 589,
+		"front": {
+			"w": 80,
+			"h": 75
+		},
+		"back": {
+			"w": 82,
+			"h": 77
+		}
+	},
+	"foongus": {
+		"bday": 590,
+		"front": {
+			"w": 35,
+			"h": 36
+		},
+		"back": {
+			"w": 36,
+			"h": 35
+		}
+	},
+	"amoonguss": {
+		"bday": 591,
+		"front": {
+			"w": 62,
+			"h": 57
+		},
+		"back": {
+			"w": 67,
+			"h": 60
+		}
+	},
+	"frillish": {
+		"bday": 592,
+		"front": {
+			"w": 65,
+			"h": 72
+		},
+		"frontf": {
+			"w": 64,
+			"h": 70
+		},
+		"back": {
+			"w": 65,
+			"h": 72
+		},
+		"backf": {
+			"w": 63,
+			"h": 70
+		}
+	},
+	"jellicent": {
+		"bday": 593,
+		"front": {
+			"w": 84,
+			"h": 84
+		},
+		"frontf": {
+			"w": 85,
+			"h": 86
+		},
+		"back": {
+			"w": 90,
+			"h": 83
+		},
+		"backf": {
+			"w": 87,
+			"h": 82
+		}
+	},
+	"alomomola": {
+		"bday": 594,
+		"front": {
+			"w": 38,
+			"h": 88
+		},
+		"back": {
+			"w": 40,
+			"h": 89
+		}
+	},
+	"joltik": {
+		"bday": 595,
+		"front": {
+			"w": 43,
+			"h": 37
+		},
+		"back": {
+			"w": 42,
+			"h": 35
+		}
+	},
+	"galvantula": {
+		"bday": 596,
+		"front": {
+			"w": 68,
+			"h": 56
+		},
+		"back": {
+			"w": 69,
+			"h": 48
+		}
+	},
+	"ferroseed": {
+		"bday": 597,
+		"front": {
+			"w": 31,
+			"h": 42
+		},
+		"back": {
+			"w": 33,
+			"h": 42
+		}
+	},
+	"ferrothorn": {
+		"bday": 598,
+		"front": {
+			"w": 70,
+			"h": 78
+		},
+		"back": {
+			"w": 62,
+			"h": 78
+		}
+	},
+	"klink": {
+		"bday": 599,
+		"front": {
+			"w": 43,
+			"h": 41
+		},
+		"back": {
+			"w": 43,
+			"h": 41
+		}
+	},
+	"klang": {
+		"bday": 600,
+		"front": {
+			"w": 58,
+			"h": 51
+		},
+		"back": {
+			"w": 54,
+			"h": 56
+		}
+	},
+	"klinklang": {
+		"bday": 601,
+		"front": {
+			"w": 70,
+			"h": 58
+		},
+		"back": {
+			"w": 69,
+			"h": 61
+		}
+	},
+	"tynamo": {
+		"bday": 602,
+		"front": {
+			"w": 57,
+			"h": 19
+		},
+		"back": {
+			"w": 57,
+			"h": 20
+		}
+	},
+	"eelektrik": {
+		"bday": 603,
+		"front": {
+			"w": 50,
+			"h": 69
+		},
+		"back": {
+			"w": 56,
+			"h": 72
+		}
+	},
+	"eelektross": {
+		"bday": 604,
+		"front": {
+			"w": 96,
+			"h": 79
+		},
+		"back": {
+			"w": 87,
+			"h": 90
+		}
+	},
+	"eelektrossmega": {
+		"bday": 604
+	},
+	"elgyem": {
+		"bday": 605,
+		"front": {
+			"w": 34,
+			"h": 51
+		},
+		"back": {
+			"w": 31,
+			"h": 51
+		}
+	},
+	"beheeyem": {
+		"bday": 606,
+		"front": {
+			"w": 44,
+			"h": 67
+		},
+		"back": {
+			"w": 41,
+			"h": 66
+		}
+	},
+	"litwick": {
+		"bday": 607,
+		"front": {
+			"w": 33,
+			"h": 44
+		},
+		"back": {
+			"w": 34,
+			"h": 45
+		}
+	},
+	"lampent": {
+		"bday": 608,
+		"front": {
+			"w": 68,
+			"h": 63
+		},
+		"back": {
+			"w": 86,
+			"h": 62
+		}
+	},
+	"chandelure": {
+		"bday": 609,
+		"front": {
+			"w": 92,
+			"h": 90
+		},
+		"back": {
+			"w": 92,
+			"h": 90
+		}
+	},
+	"chandeluremega": {
+		"bday": 609
+	},
+	"axew": {
+		"bday": 610,
+		"front": {
+			"w": 39,
+			"h": 45
+		},
+		"back": {
+			"w": 37,
+			"h": 46
+		}
+	},
+	"fraxure": {
+		"bday": 611,
+		"front": {
+			"w": 63,
+			"h": 62
+		},
+		"back": {
+			"w": 72,
+			"h": 63
+		}
+	},
+	"haxorus": {
+		"bday": 612,
+		"front": {
+			"w": 71,
+			"h": 85
+		},
+		"back": {
+			"w": 90,
+			"h": 88
+		}
+	},
+	"cubchoo": {
+		"bday": 613,
+		"front": {
+			"w": 32,
+			"h": 38
+		},
+		"back": {
+			"w": 33,
+			"h": 37
+		}
+	},
+	"beartic": {
+		"bday": 614,
+		"front": {
+			"w": 78,
+			"h": 76
+		},
+		"back": {
+			"w": 74,
+			"h": 74
+		}
+	},
+	"cryogonal": {
+		"bday": 615,
+		"front": {
+			"w": 74,
+			"h": 86
+		},
+		"back": {
+			"w": 78,
+			"h": 86
+		}
+	},
+	"shelmet": {
+		"bday": 616,
+		"front": {
+			"w": 48,
+			"h": 40
+		},
+		"back": {
+			"w": 48,
+			"h": 40
+		}
+	},
+	"accelgor": {
+		"bday": 617,
+		"front": {
+			"w": 65,
+			"h": 75
+		},
+		"back": {
+			"w": 60,
+			"h": 78
+		}
+	},
+	"stunfisk": {
+		"bday": 618,
+		"front": {
+			"w": 60,
+			"h": 46
+		},
+		"back": {
+			"w": 77,
+			"h": 33
+		}
+	},
+	"stunfiskgalar": {
+		"bday": 618
+	},
+	"mienfoo": {
+		"bday": 619,
+		"front": {
+			"w": 42,
+			"h": 66
+		},
+		"back": {
+			"w": 39,
+			"h": 64
+		}
+	},
+	"mienshao": {
+		"bday": 620,
+		"front": {
+			"w": 87,
+			"h": 70
+		},
+		"back": {
+			"w": 80,
+			"h": 66
+		}
+	},
+	"druddigon": {
+		"bday": 621,
+		"front": {
+			"w": 89,
+			"h": 74
+		},
+		"back": {
+			"w": 93,
+			"h": 82
+		}
+	},
+	"golett": {
+		"bday": 622,
+		"front": {
+			"w": 58,
+			"h": 56
+		},
+		"back": {
+			"w": 56,
+			"h": 59
+		}
+	},
+	"golurk": {
+		"bday": 623,
+		"front": {
+			"w": 83,
+			"h": 81
+		},
+		"back": {
+			"w": 77,
+			"h": 80
+		}
+	},
+	"pawniard": {
+		"bday": 624,
+		"front": {
+			"w": 50,
+			"h": 46
+		},
+		"back": {
+			"w": 42,
+			"h": 45
+		}
+	},
+	"bisharp": {
+		"bday": 625,
+		"front": {
+			"w": 58,
+			"h": 75
+		},
+		"back": {
+			"w": 58,
+			"h": 75
+		}
+	},
+	"bouffalant": {
+		"bday": 626,
+		"front": {
+			"w": 82,
+			"h": 60
+		},
+		"back": {
+			"w": 88,
+			"h": 54
+		}
+	},
+	"rufflet": {
+		"bday": 627,
+		"front": {
+			"w": 34,
+			"h": 55
+		},
+		"back": {
+			"w": 35,
+			"h": 56
+		}
+	},
+	"braviary": {
+		"bday": 628,
+		"front": {
+			"w": 102,
+			"h": 110
+		},
+		"back": {
+			"w": 91,
+			"h": 119
+		}
+	},
+	"braviaryhisui": {
+		"bday": 628
+	},
+	"vullaby": {
+		"bday": 629,
+		"front": {
+			"w": 61,
+			"h": 62
+		},
+		"back": {
+			"w": 58,
+			"h": 61
+		}
+	},
+	"mandibuzz": {
+		"bday": 630,
+		"front": {
+			"w": 57,
+			"h": 71
+		},
+		"back": {
+			"w": 54,
+			"h": 72
+		}
+	},
+	"heatmor": {
+		"bday": 631,
+		"front": {
+			"w": 94,
+			"h": 57
+		},
+		"back": {
+			"w": 101,
+			"h": 59
+		}
+	},
+	"durant": {
+		"bday": 632,
+		"front": {
+			"w": 54,
+			"h": 32
+		},
+		"back": {
+			"w": 53,
+			"h": 36
+		}
+	},
+	"deino": {
+		"bday": 633,
+		"front": {
+			"w": 49,
+			"h": 50
+		},
+		"back": {
+			"w": 45,
+			"h": 50
+		}
+	},
+	"zweilous": {
+		"bday": 634,
+		"front": {
+			"w": 67,
+			"h": 63
+		},
+		"back": {
+			"w": 66,
+			"h": 67
+		}
+	},
+	"hydreigon": {
+		"bday": 635,
+		"front": {
+			"w": 90,
+			"h": 108
+		},
+		"back": {
+			"w": 84,
+			"h": 112
+		}
+	},
+	"larvesta": {
+		"bday": 636,
+		"front": {
+			"w": 46,
+			"h": 49
+		},
+		"back": {
+			"w": 52,
+			"h": 47
+		}
+	},
+	"volcarona": {
+		"bday": 637,
+		"front": {
+			"w": 92,
+			"h": 83
+		},
+		"back": {
+			"w": 91,
+			"h": 71
+		}
+	},
+	"cobalion": {
+		"bday": 638,
+		"front": {
+			"w": 56,
+			"h": 79
+		},
+		"back": {
+			"w": 60,
+			"h": 81
+		}
+	},
+	"terrakion": {
+		"bday": 639,
+		"front": {
+			"w": 81,
+			"h": 61
+		},
+		"back": {
+			"w": 86,
+			"h": 57
+		}
+	},
+	"virizion": {
+		"bday": 640,
+		"front": {
+			"w": 61,
+			"h": 73
+		},
+		"back": {
+			"w": 60,
+			"h": 69
+		}
+	},
+	"tornadus": {
+		"bday": 641,
+		"front": {
+			"w": 102,
+			"h": 98
+		},
+		"back": {
+			"w": 102,
+			"h": 99
+		}
+	},
+	"tornadustherian": {
+		"bday": 641,
+		"front": {
+			"w": 149,
+			"h": 91
+		},
+		"back": {
+			"w": 124,
+			"h": 89
+		}
+	},
+	"thundurus": {
+		"bday": 642,
+		"front": {
+			"w": 109,
+			"h": 90
+		},
+		"back": {
+			"w": 109,
+			"h": 95
+		}
+	},
+	"thundurustherian": {
+		"bday": 642,
+		"front": {
+			"w": 129,
+			"h": 98
+		},
+		"back": {
+			"w": 134,
+			"h": 109
+		}
+	},
+	"reshiram": {
+		"bday": 643,
+		"front": {
+			"w": 107,
+			"h": 84
+		},
+		"back": {
+			"w": 100,
+			"h": 90
+		}
+	},
+	"zekrom": {
+		"bday": 644,
+		"front": {
+			"w": 102,
+			"h": 92
+		},
+		"back": {
+			"w": 108,
+			"h": 91
+		}
+	},
+	"landorus": {
+		"bday": 645,
+		"front": {
+			"w": 87,
+			"h": 79
+		},
+		"back": {
+			"w": 86,
+			"h": 78
+		}
+	},
+	"landorustherian": {
+		"bday": 645,
+		"front": {
+			"w": 92,
+			"h": 90
+		},
+		"back": {
+			"w": 90,
+			"h": 92
+		}
+	},
+	"kyurem": {
+		"bday": 646,
+		"front": {
+			"w": 99,
+			"h": 77
+		},
+		"back": {
+			"w": 80,
+			"h": 72
+		}
+	},
+	"kyuremblack": {
+		"bday": 646,
+		"front": {
+			"w": 104,
+			"h": 107
+		},
+		"back": {
+			"w": 105,
+			"h": 113
+		}
+	},
+	"kyuremwhite": {
+		"bday": 646,
+		"front": {
+			"w": 103,
+			"h": 95
+		},
+		"back": {
+			"w": 117,
+			"h": 100
+		}
+	},
+	"keldeo": {
+		"bday": 647,
+		"front": {
+			"w": 64,
+			"h": 64
+		},
+		"back": {
+			"w": 61,
+			"h": 66
+		}
+	},
+	"keldeoresolute": {
+		"bday": 647,
+		"front": {
+			"w": 76,
+			"h": 77
+		},
+		"back": {
+			"w": 78,
+			"h": 80
+		}
+	},
+	"meloetta": {
+		"bday": 648,
+		"front": {
+			"w": 49,
+			"h": 63
+		},
+		"back": {
+			"w": 40,
+			"h": 58
+		}
+	},
+	"meloettapirouette": {
+		"bday": 648,
+		"front": {
+			"w": 46,
+			"h": 76
+		},
+		"back": {
+			"w": 40,
+			"h": 75
+		}
+	},
+	"genesect": {
+		"bday": 649,
+		"front": {
+			"w": 61,
+			"h": 71
+		},
+		"back": {
+			"w": 69,
+			"h": 70
+		}
+	},
+	"genesectdouse": {
+		"bday": 649,
+		"front": {
+			"w": 61,
+			"h": 71
+		},
+		"back": {
+			"w": 69,
+			"h": 70
+		}
+	},
+	"genesectshock": {
+		"bday": 649,
+		"front": {
+			"w": 61,
+			"h": 71
+		},
+		"back": {
+			"w": 69,
+			"h": 70
+		}
+	},
+	"genesectburn": {
+		"bday": 649,
+		"front": {
+			"w": 61,
+			"h": 71
+		},
+		"back": {
+			"w": 69,
+			"h": 70
+		}
+	},
+	"genesectchill": {
+		"bday": 649,
+		"front": {
+			"w": 61,
+			"h": 71
+		},
+		"back": {
+			"w": 69,
+			"h": 70
+		}
+	},
+	"chespin": {
+		"bday": 650
+	},
+	"quilladin": {
+		"bday": 651,
+		"front": {
+			"w": 60,
+			"h": 53
+		},
+		"back": {
+			"w": 59,
+			"h": 54
+		}
+	},
+	"chesnaught": {
+		"bday": 652,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"chesnaughtmega": {
+		"bday": 652
+	},
+	"fennekin": {
+		"bday": 653,
+		"front": {
+			"w": 44,
+			"h": 45
+		},
+		"back": {
+			"w": 46,
+			"h": 44
+		}
+	},
+	"braixen": {
+		"bday": 654,
+		"front": {
+			"w": 63,
+			"h": 69
+		},
+		"back": {
+			"w": 55,
+			"h": 69
+		}
+	},
+	"delphox": {
+		"bday": 655
+	},
+	"delphoxmega": {
+		"bday": 655
+	},
+	"froakie": {
+		"bday": 656,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"frogadier": {
+		"bday": 657
+	},
+	"greninja": {
+		"bday": 658,
+		"front": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"greninjabond": {
+		"bday": 658
+	},
+	"greninjaash": {
+		"bday": 658
+	},
+	"greninjamega": {
+		"bday": 658
+	},
+	"bunnelby": {
+		"bday": 659
+	},
+	"diggersby": {
+		"bday": 660
+	},
+	"fletchling": {
+		"bday": 661,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 38,
+			"h": 40
+		}
+	},
+	"fletchinder": {
+		"bday": 662,
+		"front": {
+			"w": 75,
+			"h": 86
+		},
+		"back": {
+			"w": 70,
+			"h": 87
+		}
+	},
+	"talonflame": {
+		"bday": 663,
+		"front": {
+			"w": 128,
+			"h": 96
+		},
+		"back": {
+			"w": 128,
+			"h": 96
+		}
+	},
+	"scatterbug": {
+		"bday": 664,
+		"front": {
+			"w": 28,
+			"h": 46
+		},
+		"back": {
+			"w": 28,
+			"h": 49
+		}
+	},
+	"spewpa": {
+		"bday": 665,
+		"front": {
+			"w": 81,
+			"h": 45
+		},
+		"back": {
+			"w": 81,
+			"h": 45
+		}
+	},
+	"vivillon": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillonarchipelago": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivilloncontinental": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillonelegant": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillongarden": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillonhighplains": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillonicysnow": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillonjungle": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillonmarine": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillonmodern": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillonmonsoon": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillonocean": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillonpolar": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillonriver": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillonsandstorm": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillonsavanna": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillonsun": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillontundra": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillonfancy": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"vivillonpokeball": {
+		"bday": 666,
+		"front": {
+			"w": 67,
+			"h": 74
+		},
+		"back": {
+			"w": 67,
+			"h": 73
+		}
+	},
+	"litleo": {
+		"bday": 667,
+		"front": {
+			"w": 42,
+			"h": 49
+		},
+		"back": {
+			"w": 43,
+			"h": 48
+		}
+	},
+	"pyroar": {
+		"bday": 668,
+		"front": {
+			"w": 79,
+			"h": 77
+		},
+		"frontf": {
+			"w": 80,
+			"h": 78
+		},
+		"back": {
+			"w": 80,
+			"h": 74
+		},
+		"backf": {
+			"w": 89,
+			"h": 78
+		}
+	},
+	"pyroarmega": {
+		"bday": 668
+	},
+	"flabebe": {
+		"bday": 669,
+		"front": {
+			"w": 44,
+			"h": 63
+		}
+	},
+	"flabebeblue": {
+		"bday": 669,
+		"front": {
+			"w": 44,
+			"h": 63
+		}
+	},
+	"flabebeorange": {
+		"bday": 669,
+		"front": {
+			"w": 44,
+			"h": 63
+		}
+	},
+	"flabebewhite": {
+		"bday": 669,
+		"front": {
+			"w": 44,
+			"h": 63
+		}
+	},
+	"flabebeyellow": {
+		"bday": 669,
+		"front": {
+			"w": 44,
+			"h": 63
+		}
+	},
+	"floette": {
+		"bday": 670,
+		"front": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"floetteblue": {
+		"bday": 670
+	},
+	"floetteorange": {
+		"bday": 670
+	},
+	"floettewhite": {
+		"bday": 670
+	},
+	"floetteyellow": {
+		"bday": 670
+	},
+	"floetteeternal": {
+		"bday": 670
+	},
+	"floettemega": {
+		"bday": 670
+	},
+	"florges": {
+		"bday": 671,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"florgesblue": {
+		"bday": 671
+	},
+	"florgesorange": {
+		"bday": 671
+	},
+	"florgeswhite": {
+		"bday": 671
+	},
+	"florgesyellow": {
+		"bday": 671
+	},
+	"skiddo": {
+		"bday": 672,
+		"front": {
+			"w": 44,
+			"h": 58
+		},
+		"back": {
+			"w": 44,
+			"h": 58
+		}
+	},
+	"gogoat": {
+		"bday": 673
+	},
+	"pancham": {
+		"bday": 674,
+		"front": {
+			"w": 50,
+			"h": 50
+		},
+		"back": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"pangoro": {
+		"bday": 675,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"furfrou": {
+		"bday": 676
+	},
+	"furfroudandy": {
+		"bday": 676
+	},
+	"furfroudebutante": {
+		"bday": 676
+	},
+	"furfroudiamond": {
+		"bday": 676
+	},
+	"furfrouheart": {
+		"bday": 676
+	},
+	"furfroukabuki": {
+		"bday": 676
+	},
+	"furfroulareine": {
+		"bday": 676
+	},
+	"furfroumatron": {
+		"bday": 676
+	},
+	"furfroupharaoh": {
+		"bday": 676
+	},
+	"furfroustar": {
+		"bday": 676
+	},
+	"espurr": {
+		"bday": 677
+	},
+	"meowstic": {
+		"bday": 678
+	},
+	"meowsticf": {
+		"bday": 678
+	},
+	"honedge": {
+		"bday": 679,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"doublade": {
+		"bday": 680
+	},
+	"aegislash": {
+		"bday": 681,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"aegislashblade": {
+		"bday": 681,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"spritzee": {
+		"bday": 682,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"aromatisse": {
+		"bday": 683
+	},
+	"swirlix": {
+		"bday": 684,
+		"front": {
+			"w": 45,
+			"h": 53
+		},
+		"back": {
+			"w": 43,
+			"h": 52
+		}
+	},
+	"slurpuff": {
+		"bday": 685,
+		"front": {
+			"w": 62,
+			"h": 69
+		}
+	},
+	"inkay": {
+		"bday": 686,
+		"front": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"malamar": {
+		"bday": 687,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"malamarmega": {
+		"bday": 687
+	},
+	"binacle": {
+		"bday": 688,
+		"front": {
+			"w": 54,
+			"h": 58
+		},
+		"back": {
+			"w": 54,
+			"h": 56
+		}
+	},
+	"barbaracle": {
+		"bday": 689
+	},
+	"barbaraclemega": {
+		"bday": 689
+	},
+	"skrelp": {
+		"bday": 690
+	},
+	"dragalge": {
+		"bday": 691,
+		"front": {
+			"w": 98,
+			"h": 98
+		}
+	},
+	"dragalgemega": {
+		"bday": 691
+	},
+	"clauncher": {
+		"bday": 692,
+		"front": {
+			"w": 63,
+			"h": 35
+		},
+		"back": {
+			"w": 63,
+			"h": 35
+		}
+	},
+	"clawitzer": {
+		"bday": 693,
+		"front": {
+			"w": 118,
+			"h": 90
+		},
+		"back": {
+			"w": 111,
+			"h": 83
+		}
+	},
+	"helioptile": {
+		"bday": 694,
+		"front": {
+			"w": 62,
+			"h": 50
+		},
+		"back": {
+			"w": 61,
+			"h": 48
+		}
+	},
+	"heliolisk": {
+		"bday": 695
+	},
+	"tyrunt": {
+		"bday": 696,
+		"front": {
+			"w": 61,
+			"h": 50
+		},
+		"back": {
+			"w": 66,
+			"h": 50
+		}
+	},
+	"tyrantrum": {
+		"bday": 697,
+		"front": {
+			"w": 100,
+			"h": 82
+		},
+		"back": {
+			"w": 100,
+			"h": 78
+		}
+	},
+	"amaura": {
+		"bday": 698,
+		"front": {
+			"w": 38,
+			"h": 60
+		},
+		"back": {
+			"w": 45,
+			"h": 58
+		}
+	},
+	"aurorus": {
+		"bday": 699
+	},
+	"sylveon": {
+		"bday": 700,
+		"front": {
+			"w": 51,
+			"h": 62
+		},
+		"back": {
+			"w": 55,
+			"h": 64
+		}
+	},
+	"hawlucha": {
+		"bday": 701
+	},
+	"hawluchamega": {
+		"bday": 701
+	},
+	"dedenne": {
+		"bday": 702,
+		"front": {
+			"w": 47,
+			"h": 36
+		},
+		"back": {
+			"w": 47,
+			"h": 35
+		}
+	},
+	"carbink": {
+		"bday": 703,
+		"front": {
+			"w": 40,
+			"h": 49
+		},
+		"back": {
+			"w": 40,
+			"h": 49
+		}
+	},
+	"goomy": {
+		"bday": 704,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"sliggoo": {
+		"bday": 705,
+		"front": {
+			"w": 44,
+			"h": 64
+		},
+		"back": {
+			"w": 43,
+			"h": 63
+		}
+	},
+	"sliggoohisui": {
+		"bday": 705,
+		"front": {
+			"w": 61,
+			"h": 65
+		}
+	},
+	"goodra": {
+		"bday": 706,
+		"front": {
+			"w": 72,
+			"h": 82
+		}
+	},
+	"goodrahisui": {
+		"bday": 706,
+		"front": {
+			"w": 88,
+			"h": 91
+		},
+		"back": {
+			"w": 89,
+			"h": 93
+		}
+	},
+	"klefki": {
+		"bday": 707,
+		"front": {
+			"w": 108,
+			"h": 97
+		},
+		"back": {
+			"w": 108,
+			"h": 96
+		}
+	},
+	"phantump": {
+		"bday": 708,
+		"front": {
+			"w": 70,
+			"h": 63
+		},
+		"back": {
+			"w": 67,
+			"h": 63
+		}
+	},
+	"trevenant": {
+		"bday": 709,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"pumpkaboo": {
+		"bday": 710
+	},
+	"pumpkaboosmall": {
+		"bday": 710
+	},
+	"pumpkaboolarge": {
+		"bday": 710
+	},
+	"pumpkaboosuper": {
+		"bday": 710
+	},
+	"gourgeist": {
+		"bday": 711
+	},
+	"gourgeistsmall": {
+		"bday": 711
+	},
+	"gourgeistlarge": {
+		"bday": 711
+	},
+	"gourgeistsuper": {
+		"bday": 711
+	},
+	"bergmite": {
+		"bday": 712,
+		"front": {
+			"w": 42,
+			"h": 44
+		},
+		"back": {
+			"w": 40,
+			"h": 44
+		}
+	},
+	"avalugg": {
+		"bday": 713,
+		"front": {
+			"w": 84,
+			"h": 66
+		},
+		"back": {
+			"w": 92,
+			"h": 66
+		}
+	},
+	"avalugghisui": {
+		"bday": 713
+	},
+	"noibat": {
+		"bday": 714,
+		"front": {
+			"w": 66,
+			"h": 70
+		},
+		"back": {
+			"w": 68,
+			"h": 68
+		}
+	},
+	"noivern": {
+		"bday": 715,
+		"front": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"xerneas": {
+		"bday": 716,
+		"front": {
+			"w": 81,
+			"h": 96
+		}
+	},
+	"xerneasneutral": {
+		"bday": 716
+	},
+	"yveltal": {
+		"bday": 717,
+		"front": {
+			"w": 113,
+			"h": 104
+		}
+	},
+	"zygarde": {
+		"bday": 718,
+		"front": {
+			"w": 88,
+			"h": 92
+		},
+		"back": {
+			"w": 87,
+			"h": 93
+		}
+	},
+	"zygarde10": {
+		"bday": 718,
+		"front": {
+			"w": 61,
+			"h": 69
+		},
+		"back": {
+			"w": 64,
+			"h": 67
+		}
+	},
+	"zygardecomplete": {
+		"bday": 718
+	},
+	"zygardemega": {
+		"bday": 718
+	},
+	"diancie": {
+		"bday": 719,
+		"front": {
+			"w": 63,
+			"h": 81
+		},
+		"back": {
+			"w": 61,
+			"h": 80
+		}
+	},
+	"dianciemega": {
+		"bday": 719
+	},
+	"hoopa": {
+		"bday": 720,
+		"front": {
+			"w": 90,
+			"h": 62
+		}
+	},
+	"hoopaunbound": {
+		"bday": 720,
+		"front": {
+			"w": 105,
+			"h": 103
+		}
+	},
+	"volcanion": {
+		"bday": 721,
+		"front": {
+			"w": 81,
+			"h": 89
+		}
+	},
+	"rowlet": {
+		"bday": 722,
+		"front": {
+			"w": 63,
+			"h": 35
+		},
+		"back": {
+			"w": 63,
+			"h": 35
+		}
+	},
+	"dartrix": {
+		"bday": 723
+	},
+	"decidueye": {
+		"bday": 724
+	},
+	"decidueyehisui": {
+		"bday": 724
+	},
+	"litten": {
+		"bday": 725,
+		"front": {
+			"w": 48,
+			"h": 49
+		},
+		"back": {
+			"w": 48,
+			"h": 50
+		}
+	},
+	"torracat": {
+		"bday": 726
+	},
+	"incineroar": {
+		"bday": 727,
+		"front": {
+			"w": 87,
+			"h": 86
+		},
+		"back": {
+			"w": 88,
+			"h": 92
+		}
+	},
+	"popplio": {
+		"bday": 728,
+		"front": {
+			"w": 46,
+			"h": 55
+		},
+		"back": {
+			"w": 43,
+			"h": 59
+		}
+	},
+	"brionne": {
+		"bday": 729,
+		"front": {
+			"w": 64,
+			"h": 65
+		},
+		"back": {
+			"w": 68,
+			"h": 66
+		}
+	},
+	"primarina": {
+		"bday": 730,
+		"front": {
+			"w": 91,
+			"h": 84
+		},
+		"back": {
+			"w": 84,
+			"h": 84
+		}
+	},
+	"pikipek": {
+		"bday": 731,
+		"front": {
+			"w": 38,
+			"h": 42
+		},
+		"back": {
+			"w": 36,
+			"h": 42
+		}
+	},
+	"trumbeak": {
+		"bday": 732,
+		"front": {
+			"w": 47,
+			"h": 52
+		},
+		"back": {
+			"w": 44,
+			"h": 52
+		}
+	},
+	"toucannon": {
+		"bday": 733,
+		"front": {
+			"w": 89,
+			"h": 64
+		},
+		"back": {
+			"w": 93,
+			"h": 64
+		}
+	},
+	"yungoos": {
+		"bday": 734,
+		"front": {
+			"w": 61,
+			"h": 37
+		},
+		"back": {
+			"w": 65,
+			"h": 39
+		}
+	},
+	"gumshoos": {
+		"bday": 735,
+		"front": {
+			"w": 71,
+			"h": 62
+		},
+		"back": {
+			"w": 71,
+			"h": 67
+		}
+	},
+	"gumshoostotem": {
+		"bday": 735
+	},
+	"grubbin": {
+		"bday": 736,
+		"front": {
+			"w": 43,
+			"h": 24
+		},
+		"back": {
+			"w": 37,
+			"h": 24
+		}
+	},
+	"charjabug": {
+		"bday": 737,
+		"front": {
+			"w": 45,
+			"h": 32
+		},
+		"back": {
+			"w": 47,
+			"h": 32
+		}
+	},
+	"vikavolt": {
+		"bday": 738,
+		"front": {
+			"w": 74,
+			"h": 72
+		},
+		"back": {
+			"w": 74,
+			"h": 74
+		}
+	},
+	"vikavolttotem": {
+		"bday": 738
+	},
+	"crabrawler": {
+		"bday": 739,
+		"front": {
+			"w": 72,
+			"h": 57
+		},
+		"back": {
+			"w": 74,
+			"h": 57
+		}
+	},
+	"crabominable": {
+		"bday": 740,
+		"front": {
+			"w": 101,
+			"h": 86
+		},
+		"back": {
+			"w": 99,
+			"h": 86
+		}
+	},
+	"oricorio": {
+		"bday": 741
+	},
+	"oricoriopompom": {
+		"bday": 741,
+		"front": {
+			"w": 63,
+			"h": 54
+		},
+		"back": {
+			"w": 52,
+			"h": 55
+		}
+	},
+	"oricoriopau": {
+		"bday": 741,
+		"front": {
+			"w": 52,
+			"h": 54
+		},
+		"back": {
+			"w": 46,
+			"h": 55
+		}
+	},
+	"oricoriosensu": {
+		"bday": 741,
+		"front": {
+			"w": 65,
+			"h": 56
+		},
+		"back": {
+			"w": 69,
+			"h": 56
+		}
+	},
+	"cutiefly": {
+		"bday": 742,
+		"front": {
+			"w": 41,
+			"h": 46
+		},
+		"back": {
+			"w": 42,
+			"h": 44
+		}
+	},
+	"ribombee": {
+		"bday": 743,
+		"front": {
+			"w": 50,
+			"h": 64
+		},
+		"back": {
+			"w": 54,
+			"h": 64
+		}
+	},
+	"ribombeetotem": {
+		"bday": 743
+	},
+	"rockruff": {
+		"bday": 744,
+		"front": {
+			"w": 42,
+			"h": 42
+		},
+		"back": {
+			"w": 42,
+			"h": 47
+		}
+	},
+	"rockruffdusk": {
+		"bday": 744
+	},
+	"lycanroc": {
+		"bday": 745,
+		"front": {
+			"w": 68,
+			"h": 62
+		},
+		"back": {
+			"w": 76,
+			"h": 60
+		}
+	},
+	"lycanrocmidnight": {
+		"bday": 745,
+		"front": {
+			"w": 72,
+			"h": 80
+		},
+		"back": {
+			"w": 73,
+			"h": 77
+		}
+	},
+	"lycanrocdusk": {
+		"bday": 745,
+		"front": {
+			"w": 60,
+			"h": 66
+		}
+	},
+	"wishiwashi": {
+		"bday": 746,
+		"front": {
+			"w": 37,
+			"h": 30
+		},
+		"back": {
+			"w": 38,
+			"h": 30
+		}
+	},
+	"wishiwashischool": {
+		"bday": 746,
+		"front": {
+			"w": 104,
+			"h": 89
+		},
+		"back": {
+			"w": 100,
+			"h": 111
+		}
+	},
+	"mareanie": {
+		"bday": 747
+	},
+	"toxapex": {
+		"bday": 748,
+		"front": {
+			"w": 90,
+			"h": 77
+		},
+		"back": {
+			"w": 91,
+			"h": 76
+		}
+	},
+	"mudbray": {
+		"bday": 749,
+		"front": {
+			"w": 54,
+			"h": 71
+		},
+		"back": {
+			"w": 53,
+			"h": 67
+		}
+	},
+	"mudsdale": {
+		"bday": 750,
+		"front": {
+			"w": 90,
+			"h": 85
+		},
+		"back": {
+			"w": 93,
+			"h": 78
+		}
+	},
+	"dewpider": {
+		"bday": 751,
+		"front": {
+			"w": 35,
+			"h": 43
+		},
+		"back": {
+			"w": 33,
+			"h": 44
+		}
+	},
+	"araquanid": {
+		"bday": 752,
+		"front": {
+			"w": 84,
+			"h": 64
+		},
+		"back": {
+			"w": 82,
+			"h": 63
+		}
+	},
+	"araquanidtotem": {
+		"bday": 752
+	},
+	"fomantis": {
+		"bday": 753,
+		"front": {
+			"w": 30,
+			"h": 52
+		},
+		"back": {
+			"w": 31,
+			"h": 53
+		}
+	},
+	"lurantis": {
+		"bday": 754,
+		"front": {
+			"w": 93,
+			"h": 68
+		},
+		"back": {
+			"w": 92,
+			"h": 68
+		}
+	},
+	"lurantistotem": {
+		"bday": 754
+	},
+	"morelull": {
+		"bday": 755,
+		"front": {
+			"w": 26,
+			"h": 55
+		},
+		"back": {
+			"w": 27,
+			"h": 55
+		}
+	},
+	"shiinotic": {
+		"bday": 756,
+		"front": {
+			"w": 95,
+			"h": 70
+		},
+		"back": {
+			"w": 93,
+			"h": 71
+		}
+	},
+	"salandit": {
+		"bday": 757
+	},
+	"salazzle": {
+		"bday": 758
+	},
+	"salazzletotem": {
+		"bday": 758
+	},
+	"stufful": {
+		"bday": 759,
+		"front": {
+			"w": 41,
+			"h": 55
+		}
+	},
+	"bewear": {
+		"bday": 760,
+		"front": {
+			"w": 64,
+			"h": 84
+		},
+		"back": {
+			"w": 60,
+			"h": 78
+		}
+	},
+	"bounsweet": {
+		"bday": 761,
+		"front": {
+			"w": 38,
+			"h": 42
+		},
+		"back": {
+			"w": 40,
+			"h": 42
+		}
+	},
+	"steenee": {
+		"bday": 762,
+		"front": {
+			"w": 52,
+			"h": 55
+		},
+		"back": {
+			"w": 52,
+			"h": 55
+		}
+	},
+	"tsareena": {
+		"bday": 763
+	},
+	"comfey": {
+		"bday": 764,
+		"front": {
+			"w": 60,
+			"h": 83
+		},
+		"back": {
+			"w": 58,
+			"h": 87
+		}
+	},
+	"oranguru": {
+		"bday": 765
+	},
+	"passimian": {
+		"bday": 766
+	},
+	"wimpod": {
+		"bday": 767,
+		"front": {
+			"w": 53,
+			"h": 42
+		},
+		"back": {
+			"w": 49,
+			"h": 39
+		}
+	},
+	"golisopod": {
+		"bday": 768
+	},
+	"sandygast": {
+		"bday": 769,
+		"front": {
+			"w": 65,
+			"h": 53
+		},
+		"back": {
+			"w": 73,
+			"h": 52
+		}
+	},
+	"palossand": {
+		"bday": 770,
+		"front": {
+			"w": 96,
+			"h": 57
+		},
+		"back": {
+			"w": 96,
+			"h": 57
+		}
+	},
+	"pyukumuku": {
+		"bday": 771,
+		"front": {
+			"w": 59,
+			"h": 32
+		},
+		"back": {
+			"w": 59,
+			"h": 32
+		}
+	},
+	"typenull": {
+		"bday": 772,
+		"front": {
+			"w": 68,
+			"h": 78
+		},
+		"back": {
+			"w": 72,
+			"h": 78
+		}
+	},
+	"silvally": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallybug": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallydark": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallydragon": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallyelectric": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallyfairy": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallyfighting": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallyfire": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallyflying": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallyghost": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallygrass": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallyground": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallyice": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallypoison": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallypsychic": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallyrock": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallysteel": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"silvallywater": {
+		"bday": 773,
+		"front": {
+			"w": 68,
+			"h": 86
+		},
+		"back": {
+			"w": 64,
+			"h": 88
+		}
+	},
+	"minior": {
+		"bday": 774,
+		"front": {
+			"w": 84,
+			"h": 50
+		},
+		"back": {
+			"w": 80,
+			"h": 50
+		}
+	},
+	"miniororange": {
+		"bday": 774,
+		"front": {
+			"w": 84,
+			"h": 50
+		},
+		"back": {
+			"w": 80,
+			"h": 50
+		}
+	},
+	"minioryellow": {
+		"bday": 774,
+		"front": {
+			"w": 84,
+			"h": 50
+		},
+		"back": {
+			"w": 80,
+			"h": 50
+		}
+	},
+	"miniorgreen": {
+		"bday": 774,
+		"front": {
+			"w": 84,
+			"h": 50
+		},
+		"back": {
+			"w": 80,
+			"h": 50
+		}
+	},
+	"miniorblue": {
+		"bday": 774,
+		"front": {
+			"w": 84,
+			"h": 50
+		},
+		"back": {
+			"w": 80,
+			"h": 50
+		}
+	},
+	"miniorindigo": {
+		"bday": 774,
+		"front": {
+			"w": 84,
+			"h": 50
+		},
+		"back": {
+			"w": 80,
+			"h": 50
+		}
+	},
+	"miniorviolet": {
+		"bday": 774,
+		"front": {
+			"w": 84,
+			"h": 50
+		},
+		"back": {
+			"w": 80,
+			"h": 50
+		}
+	},
+	"miniormeteor": {
+		"bday": 774,
+		"front": {
+			"w": 84,
+			"h": 51
+		},
+		"back": {
+			"w": 86,
+			"h": 52
+		}
+	},
+	"komala": {
+		"bday": 775,
+		"front": {
+			"w": 49,
+			"h": 40
+		},
+		"back": {
+			"w": 52,
+			"h": 41
+		}
+	},
+	"turtonator": {
+		"bday": 776,
+		"front": {
+			"w": 77,
+			"h": 65
+		},
+		"back": {
+			"w": 69,
+			"h": 68
+		}
+	},
+	"togedemaru": {
+		"bday": 777,
+		"front": {
+			"w": 40,
+			"h": 44
+		},
+		"back": {
+			"w": 41,
+			"h": 46
+		}
+	},
+	"togedemarutotem": {
+		"bday": 777
+	},
+	"mimikyu": {
+		"bday": 778,
+		"front": {
+			"w": 60,
+			"h": 48
+		},
+		"back": {
+			"w": 57,
+			"h": 51
+		}
+	},
+	"mimikyubusted": {
+		"bday": 778,
+		"front": {
+			"w": 64,
+			"h": 30
+		},
+		"back": {
+			"w": 64,
+			"h": 32
+		}
+	},
+	"mimikyutotem": {
+		"bday": 778
+	},
+	"mimikyubustedtotem": {
+		"bday": 778
+	},
+	"bruxish": {
+		"bday": 779,
+		"front": {
+			"w": 51,
+			"h": 44
+		}
+	},
+	"drampa": {
+		"bday": 780,
+		"front": {
+			"w": 78,
+			"h": 72
+		},
+		"back": {
+			"w": 82,
+			"h": 79
+		}
+	},
+	"drampamega": {
+		"bday": 780
+	},
+	"dhelmise": {
+		"bday": 781,
+		"front": {
+			"w": 90,
+			"h": 91
+		},
+		"back": {
+			"w": 89,
+			"h": 92
+		}
+	},
+	"jangmoo": {
+		"bday": 782,
+		"front": {
+			"w": 49,
+			"h": 52
+		},
+		"back": {
+			"w": 49,
+			"h": 52
+		}
+	},
+	"hakamoo": {
+		"bday": 783,
+		"front": {
+			"w": 76,
+			"h": 71
+		},
+		"back": {
+			"w": 75,
+			"h": 71
+		}
+	},
+	"kommoo": {
+		"bday": 784,
+		"front": {
+			"w": 108,
+			"h": 88
+		},
+		"back": {
+			"w": 112,
+			"h": 86
+		}
+	},
+	"kommoototem": {
+		"bday": 784
+	},
+	"tapukoko": {
+		"bday": 785,
+		"front": {
+			"w": 89,
+			"h": 82
+		},
+		"back": {
+			"w": 86,
+			"h": 85
+		}
+	},
+	"tapulele": {
+		"bday": 786,
+		"front": {
+			"w": 57,
+			"h": 68
+		},
+		"back": {
+			"w": 58,
+			"h": 76
+		}
+	},
+	"tapubulu": {
+		"bday": 787,
+		"front": {
+			"w": 89,
+			"h": 92
+		},
+		"back": {
+			"w": 91,
+			"h": 98
+		}
+	},
+	"tapufini": {
+		"bday": 788
+	},
+	"cosmog": {
+		"bday": 789,
+		"front": {
+			"w": 87,
+			"h": 57
+		},
+		"back": {
+			"w": 92,
+			"h": 58
+		}
+	},
+	"cosmoem": {
+		"bday": 790,
+		"front": {
+			"w": 62,
+			"h": 52
+		},
+		"back": {
+			"w": 62,
+			"h": 52
+		}
+	},
+	"solgaleo": {
+		"bday": 791,
+		"front": {
+			"w": 99,
+			"h": 91
+		},
+		"back": {
+			"w": 104,
+			"h": 87
+		}
+	},
+	"lunala": {
+		"bday": 792,
+		"front": {
+			"w": 103,
+			"h": 109
+		},
+		"back": {
+			"w": 110,
+			"h": 109
+		}
+	},
+	"nihilego": {
+		"bday": 793,
+		"front": {
+			"w": 87,
+			"h": 85
+		}
+	},
+	"buzzwole": {
+		"bday": 794,
+		"front": {
+			"w": 91,
+			"h": 96
+		}
+	},
+	"pheromosa": {
+		"bday": 795,
+		"front": {
+			"w": 83,
+			"h": 93
+		},
+		"back": {
+			"w": 86,
+			"h": 93
+		}
+	},
+	"xurkitree": {
+		"bday": 796,
+		"front": {
+			"w": 102,
+			"h": 101
+		},
+		"back": {
+			"w": 92,
+			"h": 100
+		}
+	},
+	"celesteela": {
+		"bday": 797,
+		"front": {
+			"w": 100,
+			"h": 117
+		},
+		"back": {
+			"w": 101,
+			"h": 117
+		}
+	},
+	"kartana": {
+		"bday": 798,
+		"front": {
+			"w": 82,
+			"h": 88
+		},
+		"back": {
+			"w": 90,
+			"h": 88
+		}
+	},
+	"guzzlord": {
+		"bday": 799
+	},
+	"necrozma": {
+		"bday": 800,
+		"front": {
+			"w": 96,
+			"h": 95
+		},
+		"back": {
+			"w": 98,
+			"h": 88
+		}
+	},
+	"necrozmaduskmane": {
+		"bday": 800,
+		"front": {
+			"w": 106,
+			"h": 100
+		},
+		"back": {
+			"w": 106,
+			"h": 93
+		}
+	},
+	"necrozmadawnwings": {
+		"bday": 800,
+		"front": {
+			"w": 112,
+			"h": 114
+		},
+		"back": {
+			"w": 114,
+			"h": 113
+		}
+	},
+	"necrozmaultra": {
+		"bday": 800,
+		"front": {
+			"w": 115,
+			"h": 140
+		},
+		"back": {
+			"w": 130,
+			"h": 151
+		}
+	},
+	"magearna": {
+		"bday": 801,
+		"front": {
+			"w": 49,
+			"h": 68
+		},
+		"back": {
+			"w": 48,
+			"h": 69
+		}
+	},
+	"magearnaoriginal": {
+		"bday": 801,
+		"front": {
+			"w": 49,
+			"h": 68
+		},
+		"back": {
+			"w": 48,
+			"h": 69
+		}
+	},
+	"marshadow": {
+		"bday": 802,
+		"front": {
+			"w": 32,
+			"h": 51
+		}
+	},
+	"poipole": {
+		"bday": 803
+	},
+	"naganadel": {
+		"bday": 804,
+		"front": {
+			"w": 73,
+			"h": 94
+		},
+		"back": {
+			"w": 74,
+			"h": 94
+		}
+	},
+	"stakataka": {
+		"bday": 805,
+		"front": {
+			"w": 96,
+			"h": 93
+		}
+	},
+	"blacephalon": {
+		"bday": 806,
+		"front": {
+			"w": 100,
+			"h": 143
+		},
+		"back": {
+			"w": 85,
+			"h": 144
+		}
+	},
+	"zeraora": {
+		"bday": 807,
+		"front": {
+			"w": 77,
+			"h": 68
+		},
+		"back": {
+			"w": 79,
+			"h": 69
+		}
+	},
+	"meltan": {
+		"bday": 808,
+		"front": {
+			"w": 32,
+			"h": 38
+		}
+	},
+	"melmetal": {
+		"bday": 809,
+		"front": {
+			"w": 101,
+			"h": 75
+		}
+	},
+	"melmetalgmax": {
+		"bday": 809
+	},
+	"grookey": {
+		"bday": 810,
+		"front": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"thwackey": {
+		"bday": 811,
+		"front": {
+			"w": 57,
+			"h": 58
+		},
+		"back": {
+			"w": 50,
+			"h": 55
+		}
+	},
+	"rillaboom": {
+		"bday": 812
+	},
+	"rillaboomgmax": {
+		"bday": 812
+	},
+	"scorbunny": {
+		"bday": 813,
+		"front": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"raboot": {
+		"bday": 814,
+		"front": {
+			"w": 45,
+			"h": 58
+		},
+		"back": {
+			"w": 36,
+			"h": 57
+		}
+	},
+	"cinderace": {
+		"bday": 815
+	},
+	"cinderacegmax": {
+		"bday": 815,
+		"front": {
+			"w": 100,
+			"h": 100
+		},
+		"back": {
+			"w": 100,
+			"h": 100
+		}
+	},
+	"sobble": {
+		"bday": 816,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 42,
+			"h": 49
+		}
+	},
+	"drizzile": {
+		"bday": 817,
+		"front": {
+			"w": 51,
+			"h": 53
+		},
+		"back": {
+			"w": 53,
+			"h": 53
+		}
+	},
+	"inteleon": {
+		"bday": 818,
+		"front": {
+			"w": 66,
+			"h": 80
+		},
+		"back": {
+			"w": 64,
+			"h": 79
+		}
+	},
+	"inteleongmax": {
+		"bday": 818
+	},
+	"skwovet": {
+		"bday": 819
+	},
+	"greedent": {
+		"bday": 820
+	},
+	"rookidee": {
+		"bday": 821,
+		"front": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"corvisquire": {
+		"bday": 822,
+		"front": {
+			"w": 83,
+			"h": 93
+		},
+		"back": {
+			"w": 78,
+			"h": 92
+		}
+	},
+	"corviknight": {
+		"bday": 823,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 63,
+			"h": 70
+		}
+	},
+	"corviknightgmax": {
+		"bday": 823
+	},
+	"blipbug": {
+		"bday": 824
+	},
+	"dottler": {
+		"bday": 825
+	},
+	"orbeetle": {
+		"bday": 826
+	},
+	"orbeetlegmax": {
+		"bday": 826,
+		"front": {
+			"w": 100,
+			"h": 87
+		}
+	},
+	"nickit": {
+		"bday": 827
+	},
+	"thievul": {
+		"bday": 828
+	},
+	"gossifleur": {
+		"bday": 829
+	},
+	"eldegoss": {
+		"bday": 830,
+		"front": {
+			"w": 53,
+			"h": 59
+		},
+		"back": {
+			"w": 55,
+			"h": 58
+		}
+	},
+	"wooloo": {
+		"bday": 831,
+		"front": {
+			"w": 46,
+			"h": 42
+		},
+		"back": {
+			"w": 48,
+			"h": 42
+		}
+	},
+	"dubwool": {
+		"bday": 832,
+		"front": {
+			"w": 67,
+			"h": 76
+		},
+		"back": {
+			"w": 71,
+			"h": 73
+		}
+	},
+	"chewtle": {
+		"bday": 833,
+		"front": {
+			"w": 39,
+			"h": 47
+		},
+		"back": {
+			"w": 38,
+			"h": 49
+		}
+	},
+	"drednaw": {
+		"bday": 834,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 77,
+			"h": 58
+		}
+	},
+	"drednawgmax": {
+		"bday": 834,
+		"front": {
+			"w": 99,
+			"h": 101
+		}
+	},
+	"yamper": {
+		"bday": 835,
+		"front": {
+			"w": 35,
+			"h": 44
+		},
+		"back": {
+			"w": 43,
+			"h": 45
+		}
+	},
+	"boltund": {
+		"bday": 836
+	},
+	"rolycoly": {
+		"bday": 837,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 53,
+			"h": 42
+		}
+	},
+	"carkol": {
+		"bday": 838
+	},
+	"coalossal": {
+		"bday": 839,
+		"front": {
+			"w": 80,
+			"h": 84
+		},
+		"back": {
+			"w": 76,
+			"h": 83
+		}
+	},
+	"coalossalgmax": {
+		"bday": 839,
+		"front": {
+			"w": 111,
+			"h": 96
+		},
+		"back": {
+			"w": 106,
+			"h": 96
+		}
+	},
+	"applin": {
+		"bday": 840,
+		"front": {
+			"w": 41,
+			"h": 42
+		},
+		"back": {
+			"w": 37,
+			"h": 44
+		}
+	},
+	"flapple": {
+		"bday": 841
+	},
+	"flapplegmax": {
+		"bday": 841,
+		"front": {
+			"w": 78,
+			"h": 95
+		}
+	},
+	"appletun": {
+		"bday": 842
+	},
+	"appletungmax": {
+		"bday": 842,
+		"front": {
+			"w": 78,
+			"h": 95
+		}
+	},
+	"silicobra": {
+		"bday": 843,
+		"front": {
+			"w": 50,
+			"h": 47
+		},
+		"back": {
+			"w": 59,
+			"h": 43
+		}
+	},
+	"sandaconda": {
+		"bday": 844,
+		"front": {
+			"w": 87,
+			"h": 60
+		},
+		"back": {
+			"w": 84,
+			"h": 56
+		}
+	},
+	"sandacondagmax": {
+		"bday": 844
+	},
+	"cramorant": {
+		"bday": 845
+	},
+	"cramorantgulping": {
+		"bday": 845
+	},
+	"cramorantgorging": {
+		"bday": 845
+	},
+	"arrokuda": {
+		"bday": 846,
+		"front": {
+			"w": 104,
+			"h": 54
+		},
+		"back": {
+			"w": 100,
+			"h": 37
+		}
+	},
+	"barraskewda": {
+		"bday": 847,
+		"front": {
+			"w": 87,
+			"h": 44
+		}
+	},
+	"toxel": {
+		"bday": 848,
+		"front": {
+			"w": 40,
+			"h": 50
+		},
+		"back": {
+			"w": 49,
+			"h": 50
+		}
+	},
+	"toxtricity": {
+		"bday": 849,
+		"front": {
+			"w": 54,
+			"h": 85
+		},
+		"back": {
+			"w": 58,
+			"h": 85
+		}
+	},
+	"toxtricitylowkey": {
+		"bday": 849
+	},
+	"toxtricitygmax": {
+		"bday": 849,
+		"front": {
+			"w": 90,
+			"h": 93
+		}
+	},
+	"toxtricitylowkeygmax": {
+		"bday": 849
+	},
+	"sizzlipede": {
+		"bday": 850
+	},
+	"centiskorch": {
+		"bday": 851
+	},
+	"centiskorchgmax": {
+		"bday": 851
+	},
+	"clobbopus": {
+		"bday": 852,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 50,
+			"h": 35
+		}
+	},
+	"grapploct": {
+		"bday": 853
+	},
+	"sinistea": {
+		"bday": 854
+	},
+	"sinisteaantique": {
+		"bday": 854
+	},
+	"polteageist": {
+		"bday": 855
+	},
+	"polteageistantique": {
+		"bday": 855
+	},
+	"hatenna": {
+		"bday": 856,
+		"front": {
+			"w": 46,
+			"h": 43
+		},
+		"back": {
+			"w": 47,
+			"h": 42
+		}
+	},
+	"hattrem": {
+		"bday": 857
+	},
+	"hatterene": {
+		"bday": 858,
+		"front": {
+			"w": 69,
+			"h": 83
+		}
+	},
+	"hatterenegmax": {
+		"bday": 858,
+		"front": {
+			"w": 80,
+			"h": 96
+		}
+	},
+	"impidimp": {
+		"bday": 859,
+		"front": {
+			"w": 54,
+			"h": 50
+		},
+		"back": {
+			"w": 48,
+			"h": 53
+		}
+	},
+	"morgrem": {
+		"bday": 860
+	},
+	"grimmsnarl": {
+		"bday": 861,
+		"front": {
+			"w": 93,
+			"h": 80
+		},
+		"back": {
+			"w": 85,
+			"h": 80
+		}
+	},
+	"grimmsnarlgmax": {
+		"bday": 861
+	},
+	"obstagoon": {
+		"bday": 862,
+		"front": {
+			"w": 63,
+			"h": 80
+		},
+		"back": {
+			"w": 57,
+			"h": 75
+		}
+	},
+	"perrserker": {
+		"bday": 863,
+		"front": {
+			"w": 54,
+			"h": 64
+		},
+		"back": {
+			"w": 53,
+			"h": 68
+		}
+	},
+	"cursola": {
+		"bday": 864,
+		"front": {
+			"w": 96,
+			"h": 98
+		},
+		"back": {
+			"w": 100,
+			"h": 97
+		}
+	},
+	"sirfetchd": {
+		"bday": 865
+	},
+	"mrrime": {
+		"bday": 866,
+		"front": {
+			"w": 69,
+			"h": 63
+		},
+		"back": {
+			"w": 65,
+			"h": 58
+		}
+	},
+	"runerigus": {
+		"bday": 867,
+		"front": {
+			"w": 114,
+			"h": 66
+		}
+	},
+	"milcery": {
+		"bday": 868,
+		"front": {
+			"w": 43,
+			"h": 57
+		}
+	},
+	"alcremie": {
+		"bday": 869,
+		"front": {
+			"w": 46,
+			"h": 70
+		},
+		"back": {
+			"w": 44,
+			"h": 69
+		}
+	},
+	"alcremierubycream": {
+		"bday": 869,
+		"front": {
+			"w": 46,
+			"h": 70
+		},
+		"back": {
+			"w": 44,
+			"h": 69
+		}
+	},
+	"alcremiematchacream": {
+		"bday": 869,
+		"front": {
+			"w": 46,
+			"h": 70
+		},
+		"back": {
+			"w": 44,
+			"h": 69
+		}
+	},
+	"alcremiemintcream": {
+		"bday": 869,
+		"front": {
+			"w": 46,
+			"h": 70
+		},
+		"back": {
+			"w": 44,
+			"h": 69
+		}
+	},
+	"alcremielemoncream": {
+		"bday": 869,
+		"front": {
+			"w": 46,
+			"h": 70
+		},
+		"back": {
+			"w": 44,
+			"h": 69
+		}
+	},
+	"alcremiesaltedcream": {
+		"bday": 869,
+		"front": {
+			"w": 46,
+			"h": 70
+		},
+		"back": {
+			"w": 44,
+			"h": 69
+		}
+	},
+	"alcremierubyswirl": {
+		"bday": 869,
+		"front": {
+			"w": 46,
+			"h": 70
+		},
+		"back": {
+			"w": 44,
+			"h": 69
+		}
+	},
+	"alcremiecaramelswirl": {
+		"bday": 869,
+		"front": {
+			"w": 46,
+			"h": 70
+		},
+		"back": {
+			"w": 44,
+			"h": 69
+		}
+	},
+	"alcremierainbowswirl": {
+		"bday": 869,
+		"front": {
+			"w": 46,
+			"h": 70
+		},
+		"back": {
+			"w": 44,
+			"h": 69
+		}
+	},
+	"alcremiegmax": {
+		"bday": 869
+	},
+	"falinks": {
+		"bday": 870,
+		"front": {
+			"w": 83,
+			"h": 56
+		}
+	},
+	"falinksmega": {
+		"bday": 870
+	},
+	"pincurchin": {
+		"bday": 871,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 96,
+			"h": 96
+		}
+	},
+	"snom": {
+		"bday": 872,
+		"front": {
+			"w": 37,
+			"h": 26
+		},
+		"back": {
+			"w": 37,
+			"h": 26
+		}
+	},
+	"frosmoth": {
+		"bday": 873,
+		"front": {
+			"w": 94,
+			"h": 85
+		},
+		"back": {
+			"w": 98,
+			"h": 86
+		}
+	},
+	"stonjourner": {
+		"bday": 874,
+		"front": {
+			"w": 71,
+			"h": 83
+		},
+		"back": {
+			"w": 74,
+			"h": 82
+		}
+	},
+	"eiscue": {
+		"bday": 875,
+		"front": {
+			"w": 58,
+			"h": 85
+		},
+		"back": {
+			"w": 58,
+			"h": 85
+		}
+	},
+	"eiscuenoice": {
+		"bday": 875,
+		"front": {
+			"w": 50,
+			"h": 73
+		},
+		"back": {
+			"w": 50,
+			"h": 73
+		}
+	},
+	"indeedee": {
+		"bday": 876,
+		"front": {
+			"w": 41,
+			"h": 55
+		},
+		"frontf": {
+			"w": 44,
+			"h": 52
+		},
+		"back": {
+			"w": 39,
+			"h": 55
+		},
+		"backf": {
+			"w": 44,
+			"h": 52
+		}
+	},
+	"indeedeef": {
+		"bday": 876,
+		"front": {
+			"w": 44,
+			"h": 52
+		},
+		"back": {
+			"w": 44,
+			"h": 52
+		}
+	},
+	"morpeko": {
+		"bday": 877,
+		"front": {
+			"w": 32,
+			"h": 43
+		},
+		"back": {
+			"w": 32,
+			"h": 43
+		}
+	},
+	"morpekohangry": {
+		"bday": 877,
+		"front": {
+			"w": 29,
+			"h": 43
+		},
+		"back": {
+			"w": 28,
+			"h": 42
+		}
+	},
+	"cufant": {
+		"bday": 878,
+		"front": {
+			"w": 78,
+			"h": 55
+		},
+		"back": {
+			"w": 72,
+			"h": 55
+		}
+	},
+	"copperajah": {
+		"bday": 879
+	},
+	"copperajahgmax": {
+		"bday": 879
+	},
+	"dracozolt": {
+		"bday": 880,
+		"front": {
+			"w": 85,
+			"h": 77
+		}
+	},
+	"arctozolt": {
+		"bday": 881
+	},
+	"dracovish": {
+		"bday": 882,
+		"front": {
+			"w": 69,
+			"h": 84
+		},
+		"back": {
+			"w": 60,
+			"h": 82
+		}
+	},
+	"arctovish": {
+		"bday": 883,
+		"front": {
+			"w": 91,
+			"h": 84
+		},
+		"back": {
+			"w": 101,
+			"h": 90
+		}
+	},
+	"duraludon": {
+		"bday": 884,
+		"front": {
+			"w": 96,
+			"h": 96
+		},
+		"back": {
+			"w": 68,
+			"h": 76
+		}
+	},
+	"duraludongmax": {
+		"bday": 884
+	},
+	"dreepy": {
+		"bday": 885,
+		"front": {
+			"w": 59,
+			"h": 58
+		},
+		"back": {
+			"w": 64,
+			"h": 55
+		}
+	},
+	"drakloak": {
+		"bday": 886,
+		"front": {
+			"w": 88,
+			"h": 74
+		},
+		"back": {
+			"w": 94,
+			"h": 73
+		}
+	},
+	"dragapult": {
+		"bday": 887,
+		"front": {
+			"w": 92,
+			"h": 82
+		},
+		"back": {
+			"w": 91,
+			"h": 81
+		}
+	},
+	"zacian": {
+		"bday": 888,
+		"front": {
+			"w": 89,
+			"h": 82
+		},
+		"back": {
+			"w": 91,
+			"h": 85
+		}
+	},
+	"zaciancrowned": {
+		"bday": 888,
+		"front": {
+			"w": 93,
+			"h": 96
+		},
+		"back": {
+			"w": 97,
+			"h": 92
+		}
+	},
+	"zamazenta": {
+		"bday": 889,
+		"front": {
+			"w": 82,
+			"h": 96
+		},
+		"back": {
+			"w": 94,
+			"h": 90
+		}
+	},
+	"zamazentacrowned": {
+		"bday": 889,
+		"front": {
+			"w": 93,
+			"h": 92
+		},
+		"back": {
+			"w": 103,
+			"h": 92
+		}
+	},
+	"eternatus": {
+		"bday": 890,
+		"front": {
+			"w": 111,
+			"h": 102
+		},
+		"back": {
+			"w": 123,
+			"h": 103
+		}
+	},
+	"eternatuseternamax": {
+		"bday": 890
+	},
+	"kubfu": {
+		"bday": 891
+	},
+	"urshifu": {
+		"bday": 892
+	},
+	"urshifurapidstrike": {
+		"bday": 892
+	},
+	"urshifugmax": {
+		"bday": 892
+	},
+	"urshifurapidstrikegmax": {
+		"bday": 892
+	},
+	"zarude": {
+		"bday": 893
+	},
+	"zarudedada": {
+		"bday": 893
+	},
+	"regieleki": {
+		"bday": 894
+	},
+	"regidrago": {
+		"bday": 895,
+		"front": {
+			"w": 82,
+			"h": 81
+		},
+		"back": {
+			"w": 86,
+			"h": 75
+		}
+	},
+	"glastrier": {
+		"bday": 896,
+		"front": {
+			"w": 66,
+			"h": 84
+		},
+		"back": {
+			"w": 73,
+			"h": 82
+		}
+	},
+	"spectrier": {
+		"bday": 897
+	},
+	"calyrex": {
+		"bday": 898,
+		"front": {
+			"w": 59,
+			"h": 109
+		},
+		"back": {
+			"w": 60,
+			"h": 110
+		}
+	},
+	"calyrexice": {
+		"bday": 898,
+		"front": {
+			"w": 65,
+			"h": 84
+		},
+		"back": {
+			"w": 75,
+			"h": 82
+		}
+	},
+	"calyrexshadow": {
+		"bday": 898
+	},
+	"wyrdeer": {
+		"bday": 899,
+		"front": {
+			"w": 82,
+			"h": 96
+		}
+	},
+	"kleavor": {
+		"bday": 900
+	},
+	"ursaluna": {
+		"bday": 901,
+		"front": {
+			"w": 78,
+			"h": 74
+		}
+	},
+	"ursalunabloodmoon": {
+		"bday": 901,
+		"front": {
+			"w": 75,
+			"h": 77
+		}
+	},
+	"basculegion": {
+		"bday": 902,
+		"front": {
+			"w": 110,
+			"h": 87
+		},
+		"frontf": {
+			"w": 110,
+			"h": 85
+		},
+		"back": {
+			"w": 122,
+			"h": 80
+		},
+		"backf": {
+			"w": 122,
+			"h": 80
+		}
+	},
+	"basculegionf": {
+		"bday": 902,
+		"front": {
+			"w": 110,
+			"h": 85
+		},
+		"back": {
+			"w": 122,
+			"h": 80
+		}
+	},
+	"sneasler": {
+		"bday": 903
+	},
+	"overqwil": {
+		"bday": 904,
+		"front": {
+			"w": 99,
+			"h": 107
+		},
+		"back": {
+			"w": 99,
+			"h": 110
+		}
+	},
+	"enamorus": {
+		"bday": 905
+	},
+	"enamorustherian": {
+		"bday": 905
+	},
+	"sprigatito": {
+		"bday": 906
+	},
+	"floragato": {
+		"bday": 907
+	},
+	"meowscarada": {
+		"bday": 908
+	},
+	"fuecoco": {
+		"bday": 909
+	},
+	"crocalor": {
+		"bday": 910
+	},
+	"skeledirge": {
+		"bday": 911
+	},
+	"quaxly": {
+		"bday": 912
+	},
+	"quaxwell": {
+		"bday": 913
+	},
+	"quaquaval": {
+		"bday": 914
+	},
+	"lechonk": {
+		"bday": 915
+	},
+	"oinkologne": {
+		"bday": 916
+	},
+	"oinkolognef": {
+		"bday": 916
+	},
+	"tarountula": {
+		"bday": 917
+	},
+	"spidops": {
+		"bday": 918
+	},
+	"nymble": {
+		"bday": 919
+	},
+	"lokix": {
+		"bday": 920
+	},
+	"pawmi": {
+		"bday": 921
+	},
+	"pawmo": {
+		"bday": 922
+	},
+	"pawmot": {
+		"bday": 923
+	},
+	"tandemaus": {
+		"bday": 924
+	},
+	"maushold": {
+		"bday": 925
+	},
+	"mausholdfour": {
+		"bday": 925
+	},
+	"fidough": {
+		"bday": 926
+	},
+	"dachsbun": {
+		"bday": 927
+	},
+	"smoliv": {
+		"bday": 928
+	},
+	"dolliv": {
+		"bday": 929
+	},
+	"arboliva": {
+		"bday": 930
+	},
+	"squawkabilly": {
+		"bday": 931
+	},
+	"nacli": {
+		"bday": 932
+	},
+	"naclstack": {
+		"bday": 933
+	},
+	"garganacl": {
+		"bday": 934
+	},
+	"charcadet": {
+		"bday": 935
+	},
+	"armarouge": {
+		"bday": 936
+	},
+	"ceruledge": {
+		"bday": 937
+	},
+	"tadbulb": {
+		"bday": 938
+	},
+	"bellibolt": {
+		"bday": 939
+	},
+	"wattrel": {
+		"bday": 940
+	},
+	"kilowattrel": {
+		"bday": 941
+	},
+	"maschiff": {
+		"bday": 942
+	},
+	"mabosstiff": {
+		"bday": 943
+	},
+	"shroodle": {
+		"bday": 944
+	},
+	"grafaiai": {
+		"bday": 945
+	},
+	"bramblin": {
+		"bday": 946
+	},
+	"brambleghast": {
+		"bday": 947
+	},
+	"toedscool": {
+		"bday": 948
+	},
+	"toedscruel": {
+		"bday": 949
+	},
+	"klawf": {
+		"bday": 950
+	},
+	"capsakid": {
+		"bday": 951
+	},
+	"scovillain": {
+		"bday": 952
+	},
+	"rellor": {
+		"bday": 953
+	},
+	"rabsca": {
+		"bday": 954
+	},
+	"flittle": {
+		"bday": 955
+	},
+	"espathra": {
+		"bday": 956
+	},
+	"tinkatink": {
+		"bday": 957
+	},
+	"tinkatuff": {
+		"bday": 958
+	},
+	"tinkaton": {
+		"bday": 959
+	},
+	"wiglett": {
+		"bday": 960
+	},
+	"wugtrio": {
+		"bday": 961
+	},
+	"bombirdier": {
+		"bday": 962
+	},
+	"finizen": {
+		"bday": 963
+	},
+	"palafin": {
+		"bday": 964
+	},
+	"palafinhero": {
+		"bday": 964
+	},
+	"varoom": {
+		"bday": 965
+	},
+	"revavroom": {
+		"bday": 966
+	},
+	"cyclizar": {
+		"bday": 967
+	},
+	"orthworm": {
+		"bday": 968
+	},
+	"glimmet": {
+		"bday": 969
+	},
+	"glimmora": {
+		"bday": 970
+	},
+	"greavard": {
+		"bday": 971
+	},
+	"houndstone": {
+		"bday": 972
+	},
+	"flamigo": {
+		"bday": 973
+	},
+	"cetoddle": {
+		"bday": 974
+	},
+	"cetitan": {
+		"bday": 975
+	},
+	"veluza": {
+		"bday": 976
+	},
+	"dondozo": {
+		"bday": 977
+	},
+	"tatsugiri": {
+		"bday": 978
+	},
+	"tatsugiridroopy": {
+		"bday": 978
+	},
+	"tatsugiristretchy": {
+		"bday": 978
+	},
+	"annihilape": {
+		"bday": 979
+	},
+	"clodsire": {
+		"bday": 980
+	},
+	"farigiraf": {
+		"bday": 981
+	},
+	"dudunsparce": {
+		"bday": 982
+	},
+	"dudunsparcethreesegment": {
+		"bday": 982
+	},
+	"kingambit": {
+		"bday": 983
+	},
+	"greattusk": {
+		"bday": 984,
+		"front": {
+			"w": 98,
+			"h": 65
+		}
+	},
+	"screamtail": {
+		"bday": 985
+	},
+	"brutebonnet": {
+		"bday": 986
+	},
+	"fluttermane": {
+		"bday": 987,
+		"front": {
+			"w": 72,
+			"h": 70
+		}
+	},
+	"slitherwing": {
+		"bday": 988
+	},
+	"sandyshocks": {
+		"bday": 989
+	},
+	"irontreads": {
+		"bday": 990
+	},
+	"ironbundle": {
+		"bday": 991
+	},
+	"ironhands": {
+		"bday": 992,
+		"front": {
+			"w": 107,
+			"h": 74
+		}
+	},
+	"ironjugulis": {
+		"bday": 993
+	},
+	"ironmoth": {
+		"bday": 994,
+		"front": {
+			"w": 100,
+			"h": 94
+		}
+	},
+	"ironthorns": {
+		"bday": 995,
+		"front": {
+			"w": 88,
+			"h": 79
+		}
+	},
+	"frigibax": {
+		"bday": 996,
+		"front": {
+			"w": 36,
+			"h": 37
+		}
+	},
+	"arctibax": {
+		"bday": 997,
+		"front": {
+			"w": 57,
+			"h": 49
+		}
+	},
+	"baxcalibur": {
+		"bday": 998
+	},
+	"gimmighoul": {
+		"bday": 999,
+		"front": {
+			"w": 49,
+			"h": 61
+		}
+	},
+	"gimmighoulroaming": {
+		"bday": 999
+	},
+	"gholdengo": {
+		"bday": 1000,
+		"front": {
+			"w": 119,
+			"h": 105
+		}
+	},
+	"wochien": {
+		"bday": 1001,
+		"front": {
+			"w": 95,
+			"h": 93
+		}
+	},
+	"chienpao": {
+		"bday": 1002,
+		"front": {
+			"w": 99,
+			"h": 90
+		}
+	},
+	"tinglu": {
+		"bday": 1003,
+		"front": {
+			"w": 97,
+			"h": 82
+		}
+	},
+	"chiyu": {
+		"bday": 1004,
+		"front": {
+			"w": 68,
+			"h": 62
+		}
+	},
+	"roaringmoon": {
+		"bday": 1005
+	},
+	"ironvaliant": {
+		"bday": 1006,
+		"front": {
+			"w": 93,
+			"h": 86
+		}
+	},
+	"koraidon": {
+		"bday": 1007
+	},
+	"miraidon": {
+		"bday": 1008,
+		"front": {
+			"w": 108,
+			"h": 100
+		}
+	},
+	"walkingwake": {
+		"bday": 1009
+	},
+	"ironleaves": {
+		"bday": 1010
+	},
+	"dipplin": {
+		"bday": 1011
+	},
+	"poltchageist": {
+		"bday": 1012
+	},
+	"poltchageistartisan": {
+		"bday": 1012
+	},
+	"sinistcha": {
+		"bday": 1013
+	},
+	"sinistchamasterpiece": {
+		"bday": 1013
+	},
+	"okidogi": {
+		"bday": 1014
+	},
+	"munkidori": {
+		"bday": 1015
+	},
+	"fezandipiti": {
+		"bday": 1016
+	},
+	"ogerpon": {
+		"bday": 1017
+	},
+	"ogerponwellspring": {
+		"bday": 1017
+	},
+	"ogerponhearthflame": {
+		"bday": 1017
+	},
+	"ogerponcornerstone": {
+		"bday": 1017
+	},
+	"ogerpontealtera": {
+		"bday": 1017
+	},
+	"ogerponwellspringtera": {
+		"bday": 1017
+	},
+	"ogerponhearthflametera": {
+		"bday": 1017
+	},
+	"ogerponcornerstonetera": {
+		"bday": 1017
+	},
+	"archaludon": {
+		"bday": 1018
+	},
+	"hydrapple": {
+		"bday": 1019,
+		"front": {
+			"w": 67,
+			"h": 80
+		}
+	},
+	"gougingfire": {
+		"bday": 1020,
+		"front": {
+			"w": 90,
+			"h": 86
+		}
+	},
+	"ragingbolt": {
+		"bday": 1021
+	},
+	"ironboulder": {
+		"bday": 1022
+	},
+	"ironcrown": {
+		"bday": 1023
+	},
+	"terapagos": {
+		"bday": 1024,
+		"front": {
+			"w": 51,
+			"h": 46
+		}
+	},
+	"terapagosterastal": {
+		"bday": 1024,
+		"front": {
+			"w": 82,
+			"h": 78
+		}
+	},
+	"terapagosstellar": {
+		"bday": 1024,
+		"front": {
+			"w": 78,
+			"h": 96
+		}
+	},
+	"pecharunt": {
+		"bday": 1025
+	}
+}
