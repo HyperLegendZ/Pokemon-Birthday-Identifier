@@ -32,9 +32,14 @@ You only need **Python 3** installed to run this script.
 
 Execute the script from your terminal:
 
-```bash
-python pokemon_birthday.py
-```
+1. **Get the right directory. *This tends to be the accounts' username.**
+   ```bash
+   cd "C:\Users\____*\Documents\Project Pokemon Bday"
+   ```
+2. **Paste this into the terminal to start the code.**
+    ```bash
+    python "pokemon birthday.py"
+    ```
 
 ### Example Session
 
@@ -46,7 +51,11 @@ Enter the Pokémon's birthday (DDMM): 0728
 ✅ Found a Pokémon with the pokemon index number 0728:
 - Popplio
 
+---
+
 ## 📂 Project Structure
+
+This is how the file is formatted.
 
 | File | Description |
 | :--- | :--- |
