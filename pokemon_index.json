@@ -1,0 +1,1876 @@
+import json
+
+json_data_string = """
+{
+  "bulbasaur": {
+    "num": 1,
+    "name": "Bulbasaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "genderRatio": {
+      "M": 0.875,
+      "F": 0.125
+    },
+    "baseStats": {
+      "hp": 45,
+      "atk": 49,
+      "def": 49,
+      "spa": 65,
+      "spd": 65,
+      "spe": 45
+    },
+    "abilities": {
+      "0": "Overgrow",
+      "H": "Chlorophyll"
+    },
+    "heightm": 0.7,
+    "weightkg": 6.9,
+    "color": "Green",
+    "evos": [
+      "Ivysaur"
+    ],
+    "eggGroups": [
+      "Monster",
+      "Grass"
+    ],
+    "tier": "LC"
+  },
+  "ivysaur": {
+    "num": 2,
+    "name": "Ivysaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "genderRatio": {
+      "M": 0.875,
+      "F": 0.125
+    },
+    "baseStats": {
+      "hp": 60,
+      "atk": 62,
+      "def": 63,
+      "spa": 80,
+      "spd": 80,
+      "spe": 60
+    },
+    "abilities": {
+      "0": "Overgrow",
+      "H": "Chlorophyll"
+    },
+    "heightm": 1,
+    "weightkg": 13,
+    "color": "Green",
+    "prevo": "Bulbasaur",
+    "evoLevel": 16,
+    "evos": [
+      "Venusaur"
+    ],
+    "eggGroups": [
+      "Monster",
+      "Grass"
+    ],
+    "tier": "NFE"
+  },
+  "venusaur": {
+    "num": 3,
+    "name": "Venusaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "genderRatio": {
+      "M": 0.875,
+      "F": 0.125
+    },
+    "baseStats": {
+      "hp": 80,
+      "atk": 82,
+      "def": 83,
+      "spa": 100,
+      "spd": 100,
+      "spe": 80
+    },
+    "abilities": {
+      "0": "Overgrow",
+      "H": "Chlorophyll"
+    },
+    "heightm": 2,
+    "weightkg": 100,
+    "color": "Green",
+    "prevo": "Ivysaur",
+    "evoLevel": 32,
+    "eggGroups": [
+      "Monster",
+      "Grass"
+    ],
+    "otherFormes": [
+      "Venusaur-Mega"
+    ],
+    "formeOrder": [
+      "Venusaur",
+      "Venusaur-Mega"
+    ],
+    "canGigantamax": "G-Max Vine Lash",
+    "tier": "ZU"
+  },
+  "venusaurmega": {
+    "num": 3,
+    "name": "Venusaur-Mega",
+    "baseSpecies": "Venusaur",
+    "forme": "Mega",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "genderRatio": {
+      "M": 0.875,
+      "F": 0.125
+    },
+    "baseStats": {
+      "hp": 80,
+      "atk": 100,
+      "def": 123,
+      "spa": 122,
+      "spd": 120,
+      "spe": 80
+    },
+    "abilities": {
+      "0": "Thick Fat"
+    },
+    "heightm": 2.4,
+    "weightkg": 155.5,
+    "color": "Green",
+    "eggGroups": [
+      "Monster",
+      "Grass"
+    ],
+    "requiredItem": "Venusaurite",
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "venusaurgmax": {
+    "num": 3,
+    "name": "Venusaur-Gmax",
+    "baseSpecies": "Venusaur",
+    "forme": "Gmax",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "genderRatio": {
+      "M": 0.875,
+      "F": 0.125
+    },
+    "baseStats": {
+      "hp": 80,
+      "atk": 82,
+      "def": 83,
+      "spa": 100,
+      "spd": 100,
+      "spe": 80
+    },
+    "abilities": {
+      "0": "Overgrow",
+      "H": "Chlorophyll"
+    },
+    "heightm": 24,
+    "weightkg": 0,
+    "color": "Green",
+    "eggGroups": [
+      "Monster",
+      "Grass"
+    ],
+    "changesFrom": "Venusaur",
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "charmander": {
+    "num": 4,
+    "name": "Charmander",
+    "types": [
+      "Fire"
+    ],
+    "genderRatio": {
+      "M": 0.875,
+      "F": 0.125
+    },
+    "baseStats": {
+      "hp": 39,
+      "atk": 52,
+      "def": 43,
+      "spa": 60,
+      "spd": 50,
+      "spe": 65
+    },
+    "abilities": {
+      "0": "Blaze",
+      "H": "Solar Power"
+    },
+    "heightm": 0.6,
+    "weightkg": 8.5,
+    "color": "Red",
+    "evos": [
+      "Charmeleon"
+    ],
+    "eggGroups": [
+      "Monster",
+      "Dragon"
+    ],
+    "tier": "LC"
+  },
+  "charmeleon": {
+    "num": 5,
+    "name": "Charmeleon",
+    "types": [
+      "Fire"
+    ],
+    "genderRatio": {
+      "M": 0.875,
+      "F": 0.125
+    },
+    "baseStats": {
+      "hp": 58,
+      "atk": 64,
+      "def": 58,
+      "spa": 80,
+      "spd": 65,
+      "spe": 80
+    },
+    "abilities": {
+      "0": "Blaze",
+      "H": "Solar Power"
+    },
+    "heightm": 1.1,
+    "weightkg": 19,
+    "color": "Red",
+    "prevo": "Charmander",
+    "evoLevel": 16,
+    "evos": [
+      "Charizard"
+    ],
+    "eggGroups": [
+      "Monster",
+      "Dragon"
+    ],
+    "tier": "NFE"
+  },
+  "charizard": {
+    "num": 6,
+    "name": "Charizard",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "genderRatio": {
+      "M": 0.875,
+      "F": 0.125
+    },
+    "baseStats": {
+      "hp": 78,
+      "atk": 84,
+      "def": 78,
+      "spa": 109,
+      "spd": 85,
+      "spe": 100
+    },
+    "abilities": {
+      "0": "Blaze",
+      "H": "Solar Power"
+    },
+    "heightm": 1.7,
+    "weightkg": 90.5,
+    "color": "Red",
+    "prevo": "Charmeleon",
+    "evoLevel": 36,
+    "eggGroups": [
+      "Monster",
+      "Dragon"
+    ],
+    "otherFormes": [
+      "Charizard-Mega-X",
+      "Charizard-Mega-Y"
+    ],
+    "formeOrder": [
+      "Charizard",
+      "Charizard-Mega-X",
+      "Charizard-Mega-Y"
+    ],
+    "canGigantamax": "G-Max Wildfire",
+    "tier": "ZU"
+  },
+  "charizardmegax": {
+    "num": 6,
+    "name": "Charizard-Mega-X",
+    "baseSpecies": "Charizard",
+    "forme": "Mega-X",
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
+    "genderRatio": {
+      "M": 0.875,
+      "F": 0.125
+    },
+    "baseStats": {
+      "hp": 78,
+      "atk": 130,
+      "def": 111,
+      "spa": 130,
+      "spd": 85,
+      "spe": 100
+    },
+    "abilities": {
+      "0": "Tough Claws"
+    },
+    "heightm": 1.7,
+    "weightkg": 110.5,
+    "color": "Black",
+    "eggGroups": [
+      "Monster",
+      "Dragon"
+    ],
+    "requiredItem": "Charizardite X",
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "charizardmegay": {
+    "num": 6,
+    "name": "Charizard-Mega-Y",
+    "baseSpecies": "Charizard",
+    "forme": "Mega-Y",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "genderRatio": {
+      "M": 0.875,
+      "F": 0.125
+    },
+    "baseStats": {
+      "hp": 78,
+      "atk": 104,
+      "def": 78,
+      "spa": 159,
+      "spd": 115,
+      "spe": 100
+    },
+    "abilities": {
+      "0": "Drought"
+    },
+    "heightm": 1.7,
+    "weightkg": 100.5,
+    "color": "Red",
+    "eggGroups": [
+      "Monster",
+      "Dragon"
+    ],
+    "requiredItem": "Charizardite Y",
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "charizardgmax": {
+    "num": 6,
+    "name": "Charizard-Gmax",
+    "baseSpecies": "Charizard",
+    "forme": "Gmax",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "genderRatio": {
+      "M": 0.875,
+      "F": 0.125
+    },
+    "baseStats": {
+      "hp": 78,
+      "atk": 84,
+      "def": 78,
+      "spa": 109,
+      "spd": 85,
+      "spe": 100
+    },
+    "abilities": {
+      "0": "Blaze",
+      "H": "Solar Power"
+    },
+    "heightm": 28,
+    "weightkg": 0,
+    "color": "Red",
+    "eggGroups": [
+      "Monster",
+      "Dragon"
+    ],
+    "changesFrom": "Charizard",
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "squirtle": {
+    "num": 7,
+    "name": "Squirtle",
+    "types": [
+      "Water"
+    ],
+    "genderRatio": {
+      "M": 0.875,
+      "F": 0.125
+    },
+    "baseStats": {
+      "hp": 44,
+      "atk": 48,
+      "def": 65,
+      "spa": 50,
+      "spd": 64,
+      "spe": 43
+    },
+    "abilities": {
+      "0": "Torrent",
+      "H": "Rain Dish"
+    },
+    "heightm": 0.5,
+    "weightkg": 9,
+    "color": "Blue",
+    "evos": [
+      "Wartortle"
+    ],
+    "eggGroups": [
+      "Monster",
+      "Water 1"
+    ],
+    "tier": "LC"
+  },
+  "wartortle": {
+    "num": 8,
+    "name": "Wartortle",
+    "types": [
+      "Water"
+    ],
+    "genderRatio": {
+      "M": 0.875,
+      "F": 0.125
+    },
+    "baseStats": {
+      "hp": 59,
+      "atk": 63,
+      "def": 80,
+      "spa": 65,
+      "spd": 80,
+      "spe": 58
+    },
+    "abilities": {
+      "0": "Torrent",
+      "H": "Rain Dish"
+    },
+    "heightm": 1,
+    "weightkg": 22.5,
+    "color": "Blue",
+    "prevo": "Squirtle",
+    "evoLevel": 16,
+    "evos": [
+      "Blastoise"
+    ],
+    "eggGroups": [
+      "Monster",
+      "Water 1"
+    ],
+    "tier": "NFE"
+  },
+  "blastoise": {
+    "num": 9,
+    "name": "Blastoise",
+    "types": [
+      "Water"
+    ],
+    "genderRatio": {
+      "M": 0.875,
+      "F": 0.125
+    },
+    "baseStats": {
+      "hp": 79,
+      "atk": 83,
+      "def": 100,
+      "spa": 85,
+      "spd": 105,
+      "spe": 78
+    },
+    "abilities": {
+      "0": "Torrent",
+      "H": "Rain Dish"
+    },
+    "heightm": 1.6,
+    "weightkg": 85.5,
+    "color": "Blue",
+    "prevo": "Wartortle",
+    "evoLevel": 36,
+    "eggGroups": [
+      "Monster",
+      "Water 1"
+    ],
+    "otherFormes": [
+      "Blastoise-Mega"
+    ],
+    "formeOrder": [
+      "Blastoise",
+      "Blastoise-Mega"
+    ],
+    "canGigantamax": "G-Max Cannonade",
+    "tier": "RUBL"
+  },
+  "blastoisemega": {
+    "num": 9,
+    "name": "Blastoise-Mega",
+    "baseSpecies": "Blastoise",
+    "forme": "Mega",
+    "types": [
+      "Water"
+    ],
+    "genderRatio": {
+      "M": 0.875,
+      "F": 0.125
+    },
+    "baseStats": {
+      "hp": 79,
+      "atk": 103,
+      "def": 120,
+      "spa": 135,
+      "spd": 115,
+      "spe": 78
+    },
+    "abilities": {
+      "0": "Mega Launcher"
+    },
+    "heightm": 1.6,
+    "weightkg": 101.1,
+    "color": "Blue",
+    "eggGroups": [
+      "Monster",
+      "Water 1"
+    ],
+    "requiredItem": "Blastoisinite",
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "blastoisegmax": {
+    "num": 9,
+    "name": "Blastoise-Gmax",
+    "baseSpecies": "Blastoise",
+    "forme": "Gmax",
+    "types": [
+      "Water"
+    ],
+    "genderRatio": {
+      "M": 0.875,
+      "F": 0.125
+    },
+    "baseStats": {
+      "hp": 79,
+      "atk": 83,
+      "def": 100,
+      "spa": 85,
+      "spd": 105,
+      "spe": 78
+    },
+    "abilities": {
+      "0": "Torrent",
+      "H": "Rain Dish"
+    },
+    "heightm": 25,
+    "weightkg": 0,
+    "color": "Blue",
+    "eggGroups": [
+      "Monster",
+      "Water 1"
+    ],
+    "changesFrom": "Blastoise",
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "caterpie": {
+    "num": 10,
+    "name": "Caterpie",
+    "types": [
+      "Bug"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 30,
+      "def": 35,
+      "spa": 20,
+      "spd": 20,
+      "spe": 45
+    },
+    "abilities": {
+      "0": "Shield Dust",
+      "H": "Run Away"
+    },
+    "heightm": 0.3,
+    "weightkg": 2.9,
+    "color": "Green",
+    "evos": [
+      "Metapod"
+    ],
+    "eggGroups": [
+      "Bug"
+    ],
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "metapod": {
+    "num": 11,
+    "name": "Metapod",
+    "types": [
+      "Bug"
+    ],
+    "baseStats": {
+      "hp": 50,
+      "atk": 20,
+      "def": 55,
+      "spa": 25,
+      "spd": 25,
+      "spe": 30
+    },
+    "abilities": {
+      "0": "Shed Skin"
+    },
+    "heightm": 0.7,
+    "weightkg": 9.9,
+    "color": "Green",
+    "prevo": "Caterpie",
+    "evoLevel": 7,
+    "evos": [
+      "Butterfree"
+    ],
+    "eggGroups": [
+      "Bug"
+    ],
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "butterfree": {
+    "num": 12,
+    "name": "Butterfree",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 45,
+      "def": 50,
+      "spa": 90,
+      "spd": 80,
+      "spe": 70
+    },
+    "abilities": {
+      "0": "Compound Eyes",
+      "H": "Tinted Lens"
+    },
+    "heightm": 1.1,
+    "weightkg": 32,
+    "color": "White",
+    "prevo": "Metapod",
+    "evoLevel": 10,
+    "eggGroups": [
+      "Bug"
+    ],
+    "canGigantamax": "G-Max Befuddle",
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "butterfreegmax": {
+    "num": 12,
+    "name": "Butterfree-Gmax",
+    "baseSpecies": "Butterfree",
+    "forme": "Gmax",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 45,
+      "def": 50,
+      "spa": 90,
+      "spd": 80,
+      "spe": 70
+    },
+    "abilities": {
+      "0": "Compound Eyes",
+      "H": "Tinted Lens"
+    },
+    "heightm": 17,
+    "weightkg": 0,
+    "color": "White",
+    "eggGroups": [
+      "Bug"
+    ],
+    "changesFrom": "Butterfree",
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "weedle": {
+    "num": 13,
+    "name": "Weedle",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 35,
+      "def": 30,
+      "spa": 20,
+      "spd": 20,
+      "spe": 50
+    },
+    "abilities": {
+      "0": "Shield Dust",
+      "H": "Run Away"
+    },
+    "heightm": 0.3,
+    "weightkg": 3.2,
+    "color": "Brown",
+    "evos": [
+      "Kakuna"
+    ],
+    "eggGroups": [
+      "Bug"
+    ],
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "kakuna": {
+    "num": 14,
+    "name": "Kakuna",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 25,
+      "def": 50,
+      "spa": 25,
+      "spd": 25,
+      "spe": 35
+    },
+    "abilities": {
+      "0": "Shed Skin"
+    },
+    "heightm": 0.6,
+    "weightkg": 10,
+    "color": "Yellow",
+    "prevo": "Weedle",
+    "evoLevel": 7,
+    "evos": [
+      "Beedrill"
+    ],
+    "eggGroups": [
+      "Bug"
+    ],
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "beedrill": {
+    "num": 15,
+    "name": "Beedrill",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 90,
+      "def": 40,
+      "spa": 45,
+      "spd": 80,
+      "spe": 75
+    },
+    "abilities": {
+      "0": "Swarm",
+      "H": "Sniper"
+    },
+    "heightm": 1,
+    "weightkg": 29.5,
+    "color": "Yellow",
+    "prevo": "Kakuna",
+    "evoLevel": 10,
+    "eggGroups": [
+      "Bug"
+    ],
+    "otherFormes": [
+      "Beedrill-Mega"
+    ],
+    "formeOrder": [
+      "Beedrill",
+      "Beedrill-Mega"
+    ],
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "beedrillmega": {
+    "num": 15,
+    "name": "Beedrill-Mega",
+    "baseSpecies": "Beedrill",
+    "forme": "Mega",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 150,
+      "def": 40,
+      "spa": 15,
+      "spd": 80,
+      "spe": 145
+    },
+    "abilities": {
+      "0": "Adaptability"
+    },
+    "heightm": 1.4,
+    "weightkg": 40.5,
+    "color": "Yellow",
+    "eggGroups": [
+      "Bug"
+    ],
+    "requiredItem": "Beedrillite",
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "pidgey": {
+    "num": 16,
+    "name": "Pidgey",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 45,
+      "def": 40,
+      "spa": 35,
+      "spd": 35,
+      "spe": 56
+    },
+    "abilities": {
+      "0": "Keen Eye",
+      "1": "Tangled Feet",
+      "H": "Big Pecks"
+    },
+    "heightm": 0.3,
+    "weightkg": 1.8,
+    "color": "Brown",
+    "evos": [
+      "Pidgeotto"
+    ],
+    "eggGroups": [
+      "Flying"
+    ],
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "pidgeotto": {
+    "num": 17,
+    "name": "Pidgeotto",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "baseStats": {
+      "hp": 63,
+      "atk": 60,
+      "def": 55,
+      "spa": 50,
+      "spd": 50,
+      "spe": 71
+    },
+    "abilities": {
+      "0": "Keen Eye",
+      "1": "Tangled Feet",
+      "H": "Big Pecks"
+    },
+    "heightm": 1.1,
+    "weightkg": 30,
+    "color": "Brown",
+    "prevo": "Pidgey",
+    "evoLevel": 18,
+    "evos": [
+      "Pidgeot"
+    ],
+    "eggGroups": [
+      "Flying"
+    ],
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "pidgeot": {
+    "num": 18,
+    "name": "Pidgeot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "baseStats": {
+      "hp": 83,
+      "atk": 80,
+      "def": 75,
+      "spa": 70,
+      "spd": 70,
+      "spe": 101
+    },
+    "abilities": {
+      "0": "Keen Eye",
+      "1": "Tangled Feet",
+      "H": "Big Pecks"
+    },
+    "heightm": 1.5,
+    "weightkg": 39.5,
+    "color": "Brown",
+    "prevo": "Pidgeotto",
+    "evoLevel": 36,
+    "eggGroups": [
+      "Flying"
+    ],
+    "otherFormes": [
+      "Pidgeot-Mega"
+    ],
+    "formeOrder": [
+      "Pidgeot",
+      "Pidgeot-Mega"
+    ],
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "pidgeotmega": {
+    "num": 18,
+    "name": "Pidgeot-Mega",
+    "baseSpecies": "Pidgeot",
+    "forme": "Mega",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "baseStats": {
+      "hp": 83,
+      "atk": 80,
+      "def": 80,
+      "spa": 135,
+      "spd": 80,
+      "spe": 121
+    },
+    "abilities": {
+      "0": "No Guard"
+    },
+    "heightm": 2.2,
+    "weightkg": 50.5,
+    "color": "Brown",
+    "eggGroups": [
+      "Flying"
+    ],
+    "requiredItem": "Pidgeotite",
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "rattata": {
+    "num": 19,
+    "name": "Rattata",
+    "types": [
+      "Normal"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 56,
+      "def": 35,
+      "spa": 25,
+      "spd": 35,
+      "spe": 72
+    },
+    "abilities": {
+      "0": "Run Away",
+      "1": "Guts",
+      "H": "Hustle"
+    },
+    "heightm": 0.3,
+    "weightkg": 3.5,
+    "color": "Purple",
+    "evos": [
+      "Raticate"
+    ],
+    "eggGroups": [
+      "Field"
+    ],
+    "otherFormes": [
+      "Rattata-Alola"
+    ],
+    "formeOrder": [
+      "Rattata",
+      "Rattata-Alola"
+    ],
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "rattataalola": {
+    "num": 19,
+    "name": "Rattata-Alola",
+    "baseSpecies": "Rattata",
+    "forme": "Alola",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "baseStats": {
+      "hp": 30,
+      "atk": 56,
+      "def": 35,
+      "spa": 25,
+      "spd": 35,
+      "spe": 72
+    },
+    "abilities": {
+      "0": "Gluttony",
+      "1": "Hustle",
+      "H": "Thick Fat"
+    },
+    "heightm": 0.3,
+    "weightkg": 3.8,
+    "color": "Black",
+    "evos": [
+      "Raticate-Alola"
+    ],
+    "eggGroups": [
+      "Field"
+    ],
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "raticate": {
+    "num": 20,
+    "name": "Raticate",
+    "types": [
+      "Normal"
+    ],
+    "baseStats": {
+      "hp": 55,
+      "atk": 81,
+      "def": 60,
+      "spa": 50,
+      "spd": 70,
+      "spe": 97
+    },
+    "abilities": {
+      "0": "Run Away",
+      "1": "Guts",
+      "H": "Hustle"
+    },
+    "heightm": 0.7,
+    "weightkg": 18.5,
+    "color": "Brown",
+    "prevo": "Rattata",
+    "evoLevel": 20,
+    "eggGroups": [
+      "Field"
+    ],
+    "otherFormes": [
+      "Raticate-Alola",
+      "Raticate-Alola-Totem"
+    ],
+    "formeOrder": [
+      "Raticate",
+      "Raticate-Alola",
+      "Raticate-Alola-Totem"
+    ],
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "raticatealola": {
+    "num": 20,
+    "name": "Raticate-Alola",
+    "baseSpecies": "Raticate",
+    "forme": "Alola",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 71,
+      "def": 70,
+      "spa": 40,
+      "spd": 80,
+      "spe": 77
+    },
+    "abilities": {
+      "0": "Gluttony",
+      "1": "Hustle",
+      "H": "Thick Fat"
+    },
+    "heightm": 0.7,
+    "weightkg": 25.5,
+    "color": "Black",
+    "prevo": "Rattata-Alola",
+    "evoLevel": 20,
+    "evoCondition": "at night",
+    "eggGroups": [
+      "Field"
+    ],
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "raticatealolatotem": {
+    "num": 20,
+    "name": "Raticate-Alola-Totem",
+    "baseSpecies": "Raticate",
+    "forme": "Alola-Totem",
+    "types": [
+      "Dark",
+      "Normal"
+    ],
+    "baseStats": {
+      "hp": 75,
+      "atk": 71,
+      "def": 70,
+      "spa": 40,
+      "spd": 80,
+      "spe": 77
+    },
+    "abilities": {
+      "0": "Thick Fat"
+    },
+    "heightm": 1.4,
+    "weightkg": 105,
+    "color": "Black",
+    "eggGroups": [
+      "Field"
+    ],
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "spearow": {
+    "num": 21,
+    "name": "Spearow",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "baseStats": {
+      "hp": 40,
+      "atk": 60,
+      "def": 30,
+      "spa": 31,
+      "spd": 31,
+      "spe": 70
+    },
+    "abilities": {
+      "0": "Keen Eye",
+      "H": "Sniper"
+    },
+    "heightm": 0.3,
+    "weightkg": 2,
+    "color": "Brown",
+    "evos": [
+      "Fearow"
+    ],
+    "eggGroups": [
+      "Flying"
+    ],
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "fearow": {
+    "num": 22,
+    "name": "Fearow",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "baseStats": {
+      "hp": 65,
+      "atk": 90,
+      "def": 65,
+      "spa": 61,
+      "spd": 61,
+      "spe": 100
+    },
+    "abilities": {
+      "0": "Keen Eye",
+      "H": "Sniper"
+    },
+    "heightm": 1.2,
+    "weightkg": 38,
+    "color": "Brown",
+    "prevo": "Spearow",
+    "evoLevel": 20,
+    "eggGroups": [
+      "Flying"
+    ],
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "ekans": {
+    "num": 23,
+    "name": "Ekans",
+    "types": [
+      "Poison"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 60,
+      "def": 44,
+      "spa": 40,
+      "spd": 54,
+      "spe": 55
+    },
+    "abilities": {
+      "0": "Intimidate",
+      "1": "Shed Skin",
+      "H": "Unnerve"
+    },
+    "heightm": 2,
+    "weightkg": 6.9,
+    "color": "Purple",
+    "evos": [
+      "Arbok"
+    ],
+    "eggGroups": [
+      "Field",
+      "Dragon"
+    ],
+    "tier": "LC"
+  },
+  "arbok": {
+    "num": 24,
+    "name": "Arbok",
+    "types": [
+      "Poison"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 95,
+      "def": 69,
+      "spa": 65,
+      "spd": 79,
+      "spe": 80
+    },
+    "abilities": {
+      "0": "Intimidate",
+      "1": "Shed Skin",
+      "H": "Unnerve"
+    },
+    "heightm": 3.5,
+    "weightkg": 65,
+    "color": "Purple",
+    "prevo": "Ekans",
+    "evoLevel": 22,
+    "eggGroups": [
+      "Field",
+      "Dragon"
+    ],
+    "tier": "ZU"
+  },
+  "pikachu": {
+    "num": 25,
+    "name": "Pikachu",
+    "types": [
+      "Electric"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6,
+    "color": "Yellow",
+    "prevo": "Pichu",
+    "evoType": "levelFriendship",
+    "evos": [
+      "Raichu",
+      "Raichu-Alola"
+    ],
+    "eggGroups": [
+      "Field",
+      "Fairy"
+    ],
+    "otherFormes": [
+      "Pikachu-Cosplay",
+      "Pikachu-Rock-Star",
+      "Pikachu-Belle",
+      "Pikachu-Pop-Star",
+      "Pikachu-PhD",
+      "Pikachu-Libre",
+      "Pikachu-Original",
+      "Pikachu-Hoenn",
+      "Pikachu-Sinnoh",
+      "Pikachu-Unova",
+      "Pikachu-Kalos",
+      "Pikachu-Alola",
+      "Pikachu-Partner",
+      "Pikachu-Starter",
+      "Pikachu-World"
+    ],
+    "formeOrder": [
+      "Pikachu",
+      "Pikachu-Original",
+      "Pikachu-Hoenn",
+      "Pikachu-Sinnoh",
+      "Pikachu-Unova",
+      "Pikachu-Kalos",
+      "Pikachu-Alola",
+      "Pikachu-Partner",
+      "Pikachu-Starter",
+      "Pikachu-World",
+      "Pikachu-Rock-Star",
+      "Pikachu-Belle",
+      "Pikachu-Pop-Star",
+      "Pikachu-PhD",
+      "Pikachu-Libre",
+      "Pikachu-Cosplay"
+    ],
+    "canGigantamax": "G-Max Volt Crash",
+    "tier": "ZU"
+  },
+  "pikachucosplay": {
+    "num": 25,
+    "name": "Pikachu-Cosplay",
+    "baseSpecies": "Pikachu",
+    "forme": "Cosplay",
+    "types": [
+      "Electric"
+    ],
+    "gender": "F",
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6,
+    "color": "Yellow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "gen": 6,
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "pikachurockstar": {
+    "num": 25,
+    "name": "Pikachu-Rock-Star",
+    "baseSpecies": "Pikachu",
+    "forme": "Rock-Star",
+    "types": [
+      "Electric"
+    ],
+    "gender": "F",
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6,
+    "color": "Yellow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "changesFrom": "Pikachu-Cosplay",
+    "gen": 6,
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "pikachubelle": {
+    "num": 25,
+    "name": "Pikachu-Belle",
+    "baseSpecies": "Pikachu",
+    "forme": "Belle",
+    "types": [
+      "Electric"
+    ],
+    "gender": "F",
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6,
+    "color": "Yellow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "changesFrom": "Pikachu-Cosplay",
+    "gen": 6,
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "pikachupopstar": {
+    "num": 25,
+    "name": "Pikachu-Pop-Star",
+    "baseSpecies": "Pikachu",
+    "forme": "Pop-Star",
+    "types": [
+      "Electric"
+    ],
+    "gender": "F",
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6,
+    "color": "Yellow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "changesFrom": "Pikachu-Cosplay",
+    "gen": 6,
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "pikachuphd": {
+    "num": 25,
+    "name": "Pikachu-PhD",
+    "baseSpecies": "Pikachu",
+    "forme": "PhD",
+    "types": [
+      "Electric"
+    ],
+    "gender": "F",
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6,
+    "color": "Yellow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "changesFrom": "Pikachu-Cosplay",
+    "gen": 6,
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "pikachulibre": {
+    "num": 25,
+    "name": "Pikachu-Libre",
+    "baseSpecies": "Pikachu",
+    "forme": "Libre",
+    "types": [
+      "Electric"
+    ],
+    "gender": "F",
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6,
+    "color": "Yellow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "changesFrom": "Pikachu-Cosplay",
+    "gen": 6,
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "pikachuoriginal": {
+    "num": 25,
+    "name": "Pikachu-Original",
+    "baseSpecies": "Pikachu",
+    "forme": "Original",
+    "types": [
+      "Electric"
+    ],
+    "gender": "M",
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6,
+    "color": "Yellow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "gen": 7,
+    "tier": "ZU"
+  },
+  "pikachuhoenn": {
+    "num": 25,
+    "name": "Pikachu-Hoenn",
+    "baseSpecies": "Pikachu",
+    "forme": "Hoenn",
+    "types": [
+      "Electric"
+    ],
+    "gender": "M",
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6,
+    "color": "Yellow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "gen": 7,
+    "tier": "ZU"
+  },
+  "pikachusinnoh": {
+    "num": 25,
+    "name": "Pikachu-Sinnoh",
+    "baseSpecies": "Pikachu",
+    "forme": "Sinnoh",
+    "types": [
+      "Electric"
+    ],
+    "gender": "M",
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6,
+    "color": "Yellow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "gen": 7,
+    "tier": "ZU"
+  },
+  "pikachuunova": {
+    "num": 25,
+    "name": "Pikachu-Unova",
+    "baseSpecies": "Pikachu",
+    "forme": "Unova",
+    "types": [
+      "Electric"
+    ],
+    "gender": "M",
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6,
+    "color": "Yellow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "gen": 7,
+    "tier": "ZU"
+  },
+  "pikachukalos": {
+    "num": 25,
+    "name": "Pikachu-Kalos",
+    "baseSpecies": "Pikachu",
+    "forme": "Kalos",
+    "types": [
+      "Electric"
+    ],
+    "gender": "M",
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6,
+    "color": "Yellow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "gen": 7,
+    "tier": "ZU"
+  },
+  "pikachualola": {
+    "num": 25,
+    "name": "Pikachu-Alola",
+    "baseSpecies": "Pikachu",
+    "forme": "Alola",
+    "types": [
+      "Electric"
+    ],
+    "gender": "M",
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6,
+    "color": "Yellow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "gen": 7,
+    "tier": "ZU"
+  },
+  "pikachupartner": {
+    "num": 25,
+    "name": "Pikachu-Partner",
+    "baseSpecies": "Pikachu",
+    "forme": "Partner",
+    "types": [
+      "Electric"
+    ],
+    "gender": "M",
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6,
+    "color": "Yellow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "gen": 7,
+    "tier": "ZU"
+  },
+  "pikachustarter": {
+    "num": 25,
+    "name": "Pikachu-Starter",
+    "baseSpecies": "Pikachu",
+    "forme": "Starter",
+    "types": [
+      "Electric"
+    ],
+    "baseStats": {
+      "hp": 45,
+      "atk": 80,
+      "def": 50,
+      "spa": 75,
+      "spd": 60,
+      "spe": 120
+    },
+    "abilities": {
+      "0": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6,
+    "color": "Yellow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "tier": "Illegal",
+    "isNonstandard": "LGPE"
+  },
+  "pikachugmax": {
+    "num": 25,
+    "name": "Pikachu-Gmax",
+    "baseSpecies": "Pikachu",
+    "forme": "Gmax",
+    "types": [
+      "Electric"
+    ],
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 21,
+    "weightkg": 0,
+    "color": "Yellow",
+    "eggGroups": [
+      "Field",
+      "Fairy"
+    ],
+    "changesFrom": "Pikachu",
+    "tier": "Illegal",
+    "isNonstandard": "Past"
+  },
+  "pikachuworld": {
+    "num": 25,
+    "name": "Pikachu-World",
+    "baseSpecies": "Pikachu",
+    "forme": "World",
+    "types": [
+      "Electric"
+    ],
+    "gender": "M",
+    "baseStats": {
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spa": 50,
+      "spd": 50,
+      "spe": 90
+    },
+    "abilities": {
+      "0": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.4,
+    "weightkg": 6,
+    "color": "Yellow",
+    "eggGroups": [
+      "Undiscovered"
+    ],
+    "gen": 8,
+    "tier": "ZU"
+  },
+  "raichu": {
+    "num": 26,
+    "name": "Raichu",
+    "types": [
+      "Electric"
+    ],
+    "baseStats": {
+      "hp": 60,
+      "atk": 90,
+      "def": 55,
+      "spa": 90,
+      "spd": 80,
+      "spe": 110
+    },
+    "abilities": {
+      "0": "Static",
+      "H": "Lightning Rod"
+    },
+    "heightm": 0.8,
+    "weightkg": 30,
+    "color": "Yellow",
+    "prevo": "Pikachu",
+    "evoType": "useItem",
+    "evoItem": "Thunder Stone",
+    "egg": "groups"
+  }
+}
+"""
+
+pokedex_data = json.loads(json_data_string)
+simple_pokedex_list = []
+
+# Keep track of which Pokédex numbers we've already added
+seen_numbers = set()
+
+# Iterate over the values (the Pokémon dictionaries)
+for poke_info in pokedex_data.values():
+    poke_num = poke_info.get('num')
+    poke_name = poke_info.get('name')
+
+    # Exclude forms (Mega, Gmax, Alola, etc.) by checking for the base species and number
+    # This ensures only one entry per number, keeping the list clean.
+    if poke_num not in seen_numbers and '-' not in poke_name:
+        simple_pokedex_list.append({
+            "number": poke_num,
+            "name": poke_name
+        })
+        seen_numbers.add(poke_num)
+        
+print(simple_pokedex_list)
