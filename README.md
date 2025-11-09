@@ -1,8 +1,7 @@
 # ⚡ Pokemon Birthday Identifier 🎂
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
 
-**Gotta Match 'Em All!** Have you ever wondered which Pokémon you share a birthday with? This Python tool is your Pokédex for identifying your perfect Pocket Monster companion based on the month and day you entered the world!
+**Gotta Match 'Em All!** Have you ever wondered which Pokémon you share a birthday with? This Python tool is your Pokédex for identifying your perfect companion based on the month and day you entered the world!
 
 ---
 
@@ -35,3 +34,29 @@ Execute the script from your terminal:
 
 ```bash
 python pokemon_birthday.py
+```
+
+### Example Session
+
+```bash
+python pokemon_birthday.py
+Enter the Pokémon's birthday (DDMM): 0728
+```
+
+✅ Found a Pokémon with the pokemon index number 0728:
+- Popplio
+
+## 📂 Project Structure
+
+| File | Description |
+| :--- | :--- |
+| `pokemon_birthday.py` | The main Python script handling user input, JSON loading, and search logic. |
+| `pokemon_index.json` | The core database file containing Pokémon names and their associated `"bday"` value (the birthday number used for matching). |
+| `README.md` | The project overview file you're reading! |
+
+## 📝 Notes
+
+Pokemon index was mainly taken from Pokemon showdown and edited.
+Link: https://play.pokemonshowdown.com/data/pokedex-mini-bw.js
+Small Project may be improved on!
+
