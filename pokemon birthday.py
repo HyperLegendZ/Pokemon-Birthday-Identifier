@@ -4,7 +4,7 @@ import json
 FILE_NAME = "pokemon_index.json"
 
 # --- 1. Get user input for 'bday' condition ---
-bday_input = input("Enter the Pokémon's birthday (DDMM): ")
+bday_input = input("Enter the your birthday day and month. (DDMM): ")
 
 # --- 2. Load the JSON file ---
 try:
@@ -35,8 +35,9 @@ for name, info in pokemon_data.items():
 
 # --- 4. Display results ---
 if found_pokemon:
-    print(f"\n✅ Found a Pokémon with birthday number {bday_input}:")
+    print(f"\n✅ Found a Pokémon with your birthday number {bday_input}:")
     for name in found_pokemon:
         print(f"- {name}")
 else:
-    print(f"\nNo Pokémon found with birthday number {bday_input}.")
+    print(f"\nNo Pokémon found with your birthday number {bday_input}.")
+
