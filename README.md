@@ -21,17 +21,15 @@ You only need **Python 3** installed to run this script.
 
 ### Installation
 
-1.  **Clone the Repository:**
-    ```bash
-    git clone https://github.com/HyperLegendZ/Pokemon-Birthday-Identifier
-    cd Pokemon-Birthday-Identifier
-    ```
-2.  **Verify Data:**
-       Ensure your `pokemon_index.json` file is correctly formatted and contains the `"bday"` field for each Pokémon.
-3.  **Install Dependencies**
-    ```bash
-    pip install -r requirements.txt
-    ```
+**Clone the Repository:**
+```bash
+git clone https://github.com/HyperLegendZ/Pokemon-Birthday-Identifier
+cd Pokemon-Birthday-Identifier
+```
+**Install Dependencies**
+```bash
+pip install -r requirements.txt
+```
 
 ### ▶️ How to use
 **Step 1: Generate the dataset**
