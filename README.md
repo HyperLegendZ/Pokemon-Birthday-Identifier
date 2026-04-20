@@ -9,7 +9,7 @@
 
 * **Date-to-Dex Match:** Quickly matches your birth month and day (in `DDMM` format) to a specific Pokémon's identifier in a custom database.
 * **Simple Interface:** Get your result with a single command line prompt. No need for a Master Ball to figure this out!
-* **Expandable Data:** Easily grow the Pokédex by adding more Pokémon and corresponding birthday numbers to the `pokemon_index.json` file.
+* **Expandable Data:** Easily grow the Pokédex by adding more Pokémon and corresponding birthday numbers to the `pokemon_index.json` file (if you want to of course).
 
 ---
 
@@ -26,46 +26,35 @@ You only need **Python 3** installed to run this script.
     git clone [Your Repository URL Here]
     cd Pokemon-Birthday-Identifier
     ```
-2.  **Verify Data:** Ensure your `pokemon_index.json` file is correctly formatted and contains the `"bday"` field for each Pokémon.
-
-### How to Run
-
-Execute the script from your terminal:
-
-1. **Get the right directory.     *This tends to be the accounts' username.***
-   ```bash
-   cd "C:\Users\____*\Documents\Project Pokemon Bday"
-   ```
-2. **Paste this into the terminal to start the code.**
+2.  **Verify Data:**
+       Ensure your `pokemon_index.json` file is correctly formatted and contains the `"bday"` field for each Pokémon.
+3.  **Install Dependencies**
     ```bash
-    python "pokemon birthday.py"
+    pip install -r requirements.txt
     ```
 
-### Example Session
-
+### ▶️ How to use
+**Step 1: Generate the dataset**
 ```bash
-python pokemon_birthday.py
-Enter the your birthday (DDMM): 0728
+python generate.py
 ```
 
-✅ Found a Pokémon with the pokemon index number 0728:
-- Popplio
+This creates/updates pokemon_birthdays.json.
 
----
+**Step 2: Run the app**
+```bash
+python main.py
+```
 
-## 📂 Project Structure
+Then enter your birthday in DDMM format:
 
-This is how the file is formatted.
+Enter birthday (DDMM): 0705
+🔥 Your Pokémon is: Pikachu
 
-| File | Description |
-| :--- | :--- |
-| `pokemon_birthday.py` | The main Python script handling user input, JSON loading, and search logic. |
-| `pokemon_index.json` | The core database file containing Pokémon names and their associated `"bday"` value (the birthday number used for matching). |
-| `README.md` | The project overview file you're reading! |
 
-## 📝 Notes
 
-Pokemon index was mainly taken from Pokemon showdown and edited.
-Link: https://play.pokemonshowdown.com/data/pokedex-mini-bw.js
-Small Project may be improved on!
+
+This project uses:
+
+requests
 
