@@ -23,7 +23,7 @@ You only need **Python 3** installed to run this script.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repository URL Here]
+    git clone https://github.com/HyperLegendZ/Pokemon-Birthday-Identifier
     cd Pokemon-Birthday-Identifier
     ```
 2.  **Verify Data:**
