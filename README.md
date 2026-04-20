@@ -9,7 +9,7 @@
 
 * **Date-to-Dex Match:** Quickly matches your birth month and day (in `DDMM` format) to a specific Pokémon's identifier in a custom database.
 * **Simple Interface:** Get your result with a single command line prompt. No need for a Master Ball to figure this out!
-* **Expandable Data:** Easily grow the Pokédex by adding more Pokémon and corresponding birthday numbers to the `pokemon_index.json` file (if you want to of course).
+* **Expandable Data:** Easily grow the Pokédex by adding more Pokémon and corresponding birthday numbers to the `pokemon_birthdays.json` file (if you want to of course).
 
 ---
 
