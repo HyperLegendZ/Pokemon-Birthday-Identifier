@@ -21,9 +21,12 @@ You only need **Python 3** installed to run this script.
 
 ### Installation
 
-**Clone the Repository:**
+**Clone the Repository(in the terminal):**
 ```bash
 git clone https://github.com/HyperLegendZ/Pokemon-Birthday-Identifier
+```
+**Open the file in the terminal**
+```bash
 cd Pokemon-Birthday-Identifier
 ```
 **Install Dependencies**
@@ -32,6 +35,10 @@ pip install -r requirements.txt
 ```
 
 ### ▶️ How to use
+
+Make sure you are putting all these commands into the file opened terminal! It should look something like:
+"C:\Users\______\Pokemon-Birthday-Identifier>"
+
 **Step 1: Generate the dataset**
 ```bash
 python generate.py
@@ -52,7 +59,5 @@ Enter birthday (DDMM): 0705
 
 
 
-This project uses:
-
+**This project uses:**
 requests
-
